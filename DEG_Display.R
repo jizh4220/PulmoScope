@@ -1,8 +1,8 @@
 #!/usr/bin/env Rscript
 args <- commandArgs(trailingOnly = TRUE)
 # test if there is at least one argument: if not, return an error
-if (length(args) != 2) {
-  stop("Two arguments must be supplied \n", call. = FALSE)
+if (length(args) != 3) {
+  stop("Three arguments must be supplied \n", call. = FALSE)
 }
 
 print("=====================================")
@@ -14,14 +14,14 @@ if (!exists("aoi_seurat")) {
         source("../fraction_utils.R")
         source("../BPCells_utils.R")
         library(qs)
-        user_id <- args[2]
+        user_id <- args[3]
         setwd(file.path(user_id))
         # should be named gene_info.txt
-        gene_info <- suppressWarnings(read.csv(args[1],
+        gene_info <- suppressWarnings(read.csv(args[2],
                 header = TRUE))
         # Celltype  Disease  Gene
         all_disease <- "/mnt/root/lungDB_backend/global/disease/"
-        cur_disease <- setdiff(unique(gene_info$Cluster), "Normal")
+        cur_disease <- args[1]
         cur_celltype <- unique(gene_info$Celltype)
         #     cat("Current seurat path:", file.path(disease_header,
         #             cur_disease, "data/aoi_seurat.rds"))

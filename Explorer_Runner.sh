@@ -1,6 +1,6 @@
 #!/bin/bash
 # $1: RScriptName; $2: conda env name; $3: parameters
-
+mkdir -p $1;
 cd ~/apache-tomcat-9.0.68/webapps/PulmoScope/tool/temp
 chmod 777 ~/apache-tomcat-9.0.68/webapps/PulmoScope/tool/$1
 if [ "$2" == "KEGG" ] || [ "$2" == "global_feature" ]; then
