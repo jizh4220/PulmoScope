@@ -1,0 +1,32 @@
+[
+    {
+        "Macrophages": "57",
+        "COPD": "25",
+        "Normal": "32"
+    },
+    {
+        "Macrophages": "40",
+        "COPD": "17",
+        "Normal": "23"
+    },
+    {
+        "Macrophages": "11",
+        "COPD": "9",
+        "Normal": "2"
+    },
+    {
+        "Macrophages": "29",
+        "COPD": "16",
+        "Normal": "13"
+    },
+    {
+        "Macrophages": "25",
+        "COPD": "4",
+        "Normal": "21"
+    },
+    {
+        "Macrophages": "29",
+        "COPD": "25",
+        "Normal": "4"
+    }
+]

@@ -1,0 +1,29 @@
+"","param","groups","counts"
+"1","Airway Epithelial","COPD",150
+"2","AT1","COPD",418
+"3","AT2","COPD",894
+"4","Basal","COPD",264
+"5","Ciliated","COPD",608
+"6","DC","COPD",587
+"7","Endothelial","COPD",1005
+"8","Fibroblast","COPD",477
+"9","Macrophages","COPD",1372
+"10","Monocytes","COPD",715
+"11","NK+T","COPD",1303
+"12","Plasma+B","COPD",452
+"13","Secretory","COPD",1297
+"14","Stromal","COPD",458
+"15","Airway Epithelial","Normal",139
+"16","AT1","Normal",401
+"17","AT2","Normal",918
+"18","Basal","Normal",250
+"19","Ciliated","Normal",626
+"20","DC","Normal",575
+"21","Endothelial","Normal",992
+"22","Fibroblast","Normal",489
+"23","Macrophages","Normal",1338
+"24","Monocytes","Normal",740
+"25","NK+T","Normal",1346
+"26","Plasma+B","Normal",460
+"27","Secretory","Normal",1269
+"28","Stromal","Normal",453

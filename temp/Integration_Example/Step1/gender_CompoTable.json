@@ -1,0 +1,32 @@
+[
+    {
+        "param": "F",
+        "groups": "COPD",
+        "counts": "1561"
+    },
+    {
+        "param": "M",
+        "groups": "COPD",
+        "counts": "2940"
+    },
+    {
+        "param": "unknown",
+        "groups": "COPD",
+        "counts": "5350"
+    },
+    {
+        "param": "F",
+        "groups": "Normal",
+        "counts": "1591"
+    },
+    {
+        "param": "M",
+        "groups": "Normal",
+        "counts": "2360"
+    },
+    {
+        "param": "unknown",
+        "groups": "Normal",
+        "counts": "6180"
+    }
+]

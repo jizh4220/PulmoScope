@@ -1,0 +1,4042 @@
+[
+    {
+        "p_val": "1.74217240129841e-17",
+        "avg_log2FC": "1.19760930607124",
+        "pct.1": "0.869",
+        "pct.2": "0.395",
+        "p_val_adj": "4.72477155232128e-13",
+        "cluster": "Normal",
+        "gene": "COX1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.91099507020379e-17",
+        "avg_log2FC": "1.16167720547418",
+        "pct.1": "0.876",
+        "pct.2": "0.391",
+        "p_val_adj": "1.87426186303927e-12",
+        "cluster": "Normal",
+        "gene": "CYTB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.02256183186262e-16",
+        "avg_log2FC": "1.16948870737212",
+        "pct.1": "0.861",
+        "pct.2": "0.391",
+        "p_val_adj": "2.77318768801142e-12",
+        "cluster": "Normal",
+        "gene": "MTCO1P12",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.37456865679097e-16",
+        "avg_log2FC": "1.15904854212412",
+        "pct.1": "0.869",
+        "pct.2": "0.395",
+        "p_val_adj": "3.72783019721711e-12",
+        "cluster": "Normal",
+        "gene": "COX2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.74122588831177e-16",
+        "avg_log2FC": "1.15607516459583",
+        "pct.1": "0.869",
+        "pct.2": "0.387",
+        "p_val_adj": "1.28582046091015e-11",
+        "cluster": "Normal",
+        "gene": "ND4L",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.50129436606185e-16",
+        "avg_log2FC": "1.14891143171039",
+        "pct.1": "0.869",
+        "pct.2": "0.387",
+        "p_val_adj": "1.76315103207597e-11",
+        "cluster": "Normal",
+        "gene": "ND2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.27437257844471e-15",
+        "avg_log2FC": "1.3742533688592",
+        "pct.1": "0.759",
+        "pct.2": "0.372",
+        "p_val_adj": "3.45609843274206e-11",
+        "cluster": "Normal",
+        "gene": "FHIT",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.62285285965525e-15",
+        "avg_log2FC": "1.09626606861443",
+        "pct.1": "0.847",
+        "pct.2": "0.379",
+        "p_val_adj": "1.2537176955385e-10",
+        "cluster": "Normal",
+        "gene": "MTATP8P1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.73225516748688e-15",
+        "avg_log2FC": "1.09792549114592",
+        "pct.1": "0.876",
+        "pct.2": "0.387",
+        "p_val_adj": "2.63938760142244e-10",
+        "cluster": "Normal",
+        "gene": "ND3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.98510038481762e-14",
+        "avg_log2FC": "1.31789084392529",
+        "pct.1": "0.759",
+        "pct.2": "0.407",
+        "p_val_adj": "5.38359224362538e-10",
+        "cluster": "Normal",
+        "gene": "FTX",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.51874335526156e-14",
+        "avg_log2FC": "1.14908241650055",
+        "pct.1": "0.803",
+        "pct.2": "0.364",
+        "p_val_adj": "9.54283197946935e-10",
+        "cluster": "Normal",
+        "gene": "MTND1P23",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.21170186527634e-14",
+        "avg_log2FC": "0.965175590374427",
+        "pct.1": "0.876",
+        "pct.2": "0.628",
+        "p_val_adj": "1.14221354586294e-09",
+        "cluster": "Normal",
+        "gene": "MECOM",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.86621738832704e-14",
+        "avg_log2FC": "1.08747159130316",
+        "pct.1": "0.847",
+        "pct.2": "0.387",
+        "p_val_adj": "2.13331815571429e-09",
+        "cluster": "Normal",
+        "gene": "ND1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.17099757430539e-13",
+        "avg_log2FC": "0.771431156930086",
+        "pct.1": "0.92",
+        "pct.2": "0.723",
+        "p_val_adj": "3.17574542151623e-09",
+        "cluster": "Normal",
+        "gene": "LPP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.10079225849953e-13",
+        "avg_log2FC": "0.819210131496374",
+        "pct.1": "0.869",
+        "pct.2": "0.711",
+        "p_val_adj": "5.69734860505071e-09",
+        "cluster": "Normal",
+        "gene": "FOXP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.10250757569999e-13",
+        "avg_log2FC": "1.04379210335555",
+        "pct.1": "0.832",
+        "pct.2": "0.372",
+        "p_val_adj": "5.70200054529838e-09",
+        "cluster": "Normal",
+        "gene": "MTATP6P1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.36061126305948e-13",
+        "avg_log2FC": "1.3562882568184",
+        "pct.1": "0.679",
+        "pct.2": "0.324",
+        "p_val_adj": "6.40197774541731e-09",
+        "cluster": "Normal",
+        "gene": "FGD4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.39093366452832e-13",
+        "avg_log2FC": "1.04363201254995",
+        "pct.1": "0.803",
+        "pct.2": "0.372",
+        "p_val_adj": "1.73322120982008e-08",
+        "cluster": "Normal",
+        "gene": "ND5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.53314273774992e-13",
+        "avg_log2FC": "1.08235486391135",
+        "pct.1": "0.788",
+        "pct.2": "0.364",
+        "p_val_adj": "1.77178831047778e-08",
+        "cluster": "Normal",
+        "gene": "ND6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.07573841535812e-12",
+        "avg_log2FC": "1.31459171756301",
+        "pct.1": "0.628",
+        "pct.2": "0.281",
+        "p_val_adj": "5.62940258245121e-08",
+        "cluster": "Normal",
+        "gene": "AMBRA1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.31243506166094e-12",
+        "avg_log2FC": "1.20124152715999",
+        "pct.1": "0.693",
+        "pct.2": "0.324",
+        "p_val_adj": "6.27132388722446e-08",
+        "cluster": "Normal",
+        "gene": "SCHLAP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.97550028998352e-12",
+        "avg_log2FC": "1.07318101541637",
+        "pct.1": "0.737",
+        "pct.2": "0.375",
+        "p_val_adj": "1.62055567864353e-07",
+        "cluster": "Normal",
+        "gene": "CCSER1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.47572943051412e-12",
+        "avg_log2FC": "0.766666431825024",
+        "pct.1": "0.876",
+        "pct.2": "0.731",
+        "p_val_adj": "2.02741782155543e-07",
+        "cluster": "Normal",
+        "gene": "AKAP13",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.0819123691985e-12",
+        "avg_log2FC": "1.37828633025568",
+        "pct.1": "0.65",
+        "pct.2": "0.336",
+        "p_val_adj": "2.19181463452663e-07",
+        "cluster": "Normal",
+        "gene": "IMMP2L",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.20472755611559e-11",
+        "avg_log2FC": "1.19720589810707",
+        "pct.1": "0.664",
+        "pct.2": "0.324",
+        "p_val_adj": "3.26722113218549e-07",
+        "cluster": "Normal",
+        "gene": "STEAP1B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.2607638523424e-11",
+        "avg_log2FC": "1.27224321831768",
+        "pct.1": "0.679",
+        "pct.2": "0.403",
+        "p_val_adj": "3.4191915675526e-07",
+        "cluster": "Normal",
+        "gene": "TBC1D5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.77542306960022e-11",
+        "avg_log2FC": "1.00441425281783",
+        "pct.1": "0.81",
+        "pct.2": "0.514",
+        "p_val_adj": "4.81494736475581e-07",
+        "cluster": "Normal",
+        "gene": "RBFOX2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.06585744362818e-11",
+        "avg_log2FC": "0.867181782718666",
+        "pct.1": "0.832",
+        "pct.2": "0.605",
+        "p_val_adj": "5.60260538711962e-07",
+        "cluster": "Normal",
+        "gene": "MED13L",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.58914358083678e-11",
+        "avg_log2FC": "0.834662127638534",
+        "pct.1": "0.861",
+        "pct.2": "0.64",
+        "p_val_adj": "7.02175739122936e-07",
+        "cluster": "Normal",
+        "gene": "MACF1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.78603337096953e-11",
+        "avg_log2FC": "0.941856370316833",
+        "pct.1": "0.818",
+        "pct.2": "0.549",
+        "p_val_adj": "7.55572250206937e-07",
+        "cluster": "Normal",
+        "gene": "ADK",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.51491785688863e-11",
+        "avg_log2FC": "0.863389144524701",
+        "pct.1": "0.825",
+        "pct.2": "0.601",
+        "p_val_adj": "1.2244457227882e-06",
+        "cluster": "Normal",
+        "gene": "RERE",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.81452987605139e-11",
+        "avg_log2FC": "1.03217646469949",
+        "pct.1": "0.752",
+        "pct.2": "0.49",
+        "p_val_adj": "1.84810050238514e-06",
+        "cluster": "Normal",
+        "gene": "MAGI1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.49893801081367e-11",
+        "avg_log2FC": "1.13479266009822",
+        "pct.1": "0.672",
+        "pct.2": "0.316",
+        "p_val_adj": "2.03371198853267e-06",
+        "cluster": "Normal",
+        "gene": "H3-3B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.31368010603535e-11",
+        "avg_log2FC": "1.57304215714121",
+        "pct.1": "0.518",
+        "pct.2": "0.206",
+        "p_val_adj": "2.25467004475679e-06",
+        "cluster": "Normal",
+        "gene": "ARL15",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.31757977050493e-10",
+        "avg_log2FC": "0.950816988843646",
+        "pct.1": "0.752",
+        "pct.2": "0.518",
+        "p_val_adj": "3.57327633760938e-06",
+        "cluster": "Normal",
+        "gene": "LRBA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.36697700758598e-10",
+        "avg_log2FC": "0.984271710803374",
+        "pct.1": "0.803",
+        "pct.2": "0.553",
+        "p_val_adj": "3.70724164457317e-06",
+        "cluster": "Normal",
+        "gene": "PARD3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.47541121510052e-10",
+        "avg_log2FC": "1.59021992589143",
+        "pct.1": "0.467",
+        "pct.2": "0.17",
+        "p_val_adj": "4.00131521535262e-06",
+        "cluster": "Normal",
+        "gene": "MCF2L2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.58393763691268e-10",
+        "avg_log2FC": "0.814279999405903",
+        "pct.1": "0.832",
+        "pct.2": "0.613",
+        "p_val_adj": "4.2956388713072e-06",
+        "cluster": "Normal",
+        "gene": "ZBTB20",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.59006301840765e-10",
+        "avg_log2FC": "1.4383281108991",
+        "pct.1": "0.584",
+        "pct.2": "0.285",
+        "p_val_adj": "4.31225090592154e-06",
+        "cluster": "Normal",
+        "gene": "KDM4C",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.92509762812006e-10",
+        "avg_log2FC": "1.03169038113055",
+        "pct.1": "0.73",
+        "pct.2": "0.427",
+        "p_val_adj": "5.2208647674616e-06",
+        "cluster": "Normal",
+        "gene": "MACROD2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.95289292834011e-10",
+        "avg_log2FC": "0.954853614600933",
+        "pct.1": "0.774",
+        "pct.2": "0.49",
+        "p_val_adj": "5.29624562165837e-06",
+        "cluster": "Normal",
+        "gene": "TRIO",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.7049422969995e-10",
+        "avg_log2FC": "1.25044088407763",
+        "pct.1": "0.642",
+        "pct.2": "0.348",
+        "p_val_adj": "7.33580350946265e-06",
+        "cluster": "Normal",
+        "gene": "WWOX",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.86864654195465e-10",
+        "avg_log2FC": "0.853894313786233",
+        "pct.1": "0.825",
+        "pct.2": "0.577",
+        "p_val_adj": "7.77976942178102e-06",
+        "cluster": "Normal",
+        "gene": "PTK2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.92867197735232e-10",
+        "avg_log2FC": "0.922971087049595",
+        "pct.1": "0.759",
+        "pct.2": "0.549",
+        "p_val_adj": "7.9425584025795e-06",
+        "cluster": "Normal",
+        "gene": "PATJ",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.45454491809502e-10",
+        "avg_log2FC": "1.43300670654117",
+        "pct.1": "0.606",
+        "pct.2": "0.324",
+        "p_val_adj": "9.36872581787369e-06",
+        "cluster": "Normal",
+        "gene": "FMNL2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.32590388415913e-10",
+        "avg_log2FC": "1.23489981260745",
+        "pct.1": "0.606",
+        "pct.2": "0.304",
+        "p_val_adj": "1.17318513338396e-05",
+        "cluster": "Normal",
+        "gene": "LRMDA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.03403448639353e-10",
+        "avg_log2FC": "1.43729087005895",
+        "pct.1": "0.445",
+        "pct.2": "0.158",
+        "p_val_adj": "1.36523015270993e-05",
+        "cluster": "Normal",
+        "gene": "ANKUB1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.42922092942624e-10",
+        "avg_log2FC": "1.08527481076536",
+        "pct.1": "0.701",
+        "pct.2": "0.435",
+        "p_val_adj": "1.4724047160604e-05",
+        "cluster": "Normal",
+        "gene": "AGAP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.77049399053173e-10",
+        "avg_log2FC": "0.733829292005902",
+        "pct.1": "0.869",
+        "pct.2": "0.715",
+        "p_val_adj": "1.83615797023221e-05",
+        "cluster": "Normal",
+        "gene": "IL6ST",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.21359195432267e-10",
+        "avg_log2FC": "1.18394902170791",
+        "pct.1": "0.569",
+        "pct.2": "0.253",
+        "p_val_adj": "1.95632613801231e-05",
+        "cluster": "Normal",
+        "gene": "POLR2J4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.64831437651598e-10",
+        "avg_log2FC": "1.8005662113246",
+        "pct.1": "0.431",
+        "pct.2": "0.166",
+        "p_val_adj": "2.07422285891113e-05",
+        "cluster": "Normal",
+        "gene": "AQP4-AS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.81231184607803e-10",
+        "avg_log2FC": "1.03608273731457",
+        "pct.1": "0.679",
+        "pct.2": "0.34",
+        "p_val_adj": "2.38989897265636e-05",
+        "cluster": "Normal",
+        "gene": "MTCO2P12",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.03143942991526e-09",
+        "avg_log2FC": "0.777679353690841",
+        "pct.1": "0.854",
+        "pct.2": "0.656",
+        "p_val_adj": "2.79726373393019e-05",
+        "cluster": "Normal",
+        "gene": "JMJD1C",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.04202776777999e-09",
+        "avg_log2FC": "1.59690113514118",
+        "pct.1": "0.482",
+        "pct.2": "0.213",
+        "p_val_adj": "2.82597930621933e-05",
+        "cluster": "Normal",
+        "gene": "PRH1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.25275866028422e-09",
+        "avg_log2FC": "1.19515413736027",
+        "pct.1": "0.606",
+        "pct.2": "0.316",
+        "p_val_adj": "3.39748148669081e-05",
+        "cluster": "Normal",
+        "gene": "POLR2J3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.65298324730391e-09",
+        "avg_log2FC": "0.910326644347586",
+        "pct.1": "0.723",
+        "pct.2": "0.451",
+        "p_val_adj": "4.4828905666882e-05",
+        "cluster": "Normal",
+        "gene": "SMYD3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.85052263708812e-09",
+        "avg_log2FC": "0.989247535824981",
+        "pct.1": "0.745",
+        "pct.2": "0.47",
+        "p_val_adj": "5.01861739178298e-05",
+        "cluster": "Normal",
+        "gene": "MYO1D",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.17592360329206e-09",
+        "avg_log2FC": "0.853290567302917",
+        "pct.1": "0.832",
+        "pct.2": "0.64",
+        "p_val_adj": "5.90110481212806e-05",
+        "cluster": "Normal",
+        "gene": "PDE4D",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.21824282632459e-09",
+        "avg_log2FC": "1.79325288351731",
+        "pct.1": "0.277",
+        "pct.2": "0.059",
+        "p_val_adj": "6.01587454499228e-05",
+        "cluster": "Normal",
+        "gene": "RFX3-AS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.34581351034843e-09",
+        "avg_log2FC": "1.28575330520607",
+        "pct.1": "0.511",
+        "pct.2": "0.209",
+        "p_val_adj": "6.36184624006493e-05",
+        "cluster": "Normal",
+        "gene": "ARMH4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.89477617070389e-09",
+        "avg_log2FC": "0.803842984386543",
+        "pct.1": "0.803",
+        "pct.2": "0.51",
+        "p_val_adj": "7.85063297494894e-05",
+        "cluster": "Normal",
+        "gene": "SIK3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.11549196085146e-09",
+        "avg_log2FC": "1.23278746204106",
+        "pct.1": "0.599",
+        "pct.2": "0.336",
+        "p_val_adj": "8.44921419782915e-05",
+        "cluster": "Normal",
+        "gene": "SMG6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.15300349497787e-09",
+        "avg_log2FC": "1.04819586199279",
+        "pct.1": "0.701",
+        "pct.2": "0.443",
+        "p_val_adj": "8.55094547837998e-05",
+        "cluster": "Normal",
+        "gene": "EXOC4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.66002295198392e-09",
+        "avg_log2FC": "1.7793671174583",
+        "pct.1": "0.423",
+        "pct.2": "0.166",
+        "p_val_adj": "9.92598224578038e-05",
+        "cluster": "Normal",
+        "gene": "CAMKMT",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.84054377706846e-09",
+        "avg_log2FC": "0.943443442056969",
+        "pct.1": "0.752",
+        "pct.2": "0.538",
+        "p_val_adj": "0.000104155547234097",
+        "cluster": "Normal",
+        "gene": "MAML2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.36476371690733e-09",
+        "avg_log2FC": "0.934783549604053",
+        "pct.1": "0.73",
+        "pct.2": "0.486",
+        "p_val_adj": "0.000118372392002527",
+        "cluster": "Normal",
+        "gene": "TCF12",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.448497641305e-09",
+        "avg_log2FC": "1.23430464399731",
+        "pct.1": "0.577",
+        "pct.2": "0.308",
+        "p_val_adj": "0.000120643256032192",
+        "cluster": "Normal",
+        "gene": "VTI1A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.6725298659092e-09",
+        "avg_log2FC": "0.782052658503684",
+        "pct.1": "0.81",
+        "pct.2": "0.613",
+        "p_val_adj": "0.000126719009963458",
+        "cluster": "Normal",
+        "gene": "KMT2C",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.20301987844043e-09",
+        "avg_log2FC": "1.14767491659638",
+        "pct.1": "0.628",
+        "pct.2": "0.356",
+        "p_val_adj": "0.000168225899103305",
+        "cluster": "Normal",
+        "gene": "TANC2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.99304507314787e-09",
+        "avg_log2FC": "1.27239219101927",
+        "pct.1": "0.526",
+        "pct.2": "0.237",
+        "p_val_adj": "0.00018965138238377",
+        "cluster": "Normal",
+        "gene": "CYRIB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.28213200676653e-09",
+        "avg_log2FC": "0.954984758415165",
+        "pct.1": "0.737",
+        "pct.2": "0.53",
+        "p_val_adj": "0.000197491420023508",
+        "cluster": "Normal",
+        "gene": "SRPK2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.54263043230781e-09",
+        "avg_log2FC": "0.809363504024841",
+        "pct.1": "0.81",
+        "pct.2": "0.589",
+        "p_val_adj": "0.000204556137324188",
+        "cluster": "Normal",
+        "gene": "MAST4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.82144582037799e-09",
+        "avg_log2FC": "1.16148920060881",
+        "pct.1": "0.547",
+        "pct.2": "0.249",
+        "p_val_adj": "0.000266357610648651",
+        "cluster": "Normal",
+        "gene": "DGKI",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.09083138323798e-08",
+        "avg_log2FC": "1.38470269301916",
+        "pct.1": "0.54",
+        "pct.2": "0.289",
+        "p_val_adj": "0.000295833471134141",
+        "cluster": "Normal",
+        "gene": "MBD5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.12781115212206e-08",
+        "avg_log2FC": "1.02606478434886",
+        "pct.1": "0.584",
+        "pct.2": "0.277",
+        "p_val_adj": "0.000305862384455502",
+        "cluster": "Normal",
+        "gene": "MRTFA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.30855120014513e-08",
+        "avg_log2FC": "0.9956310747362",
+        "pct.1": "0.708",
+        "pct.2": "0.47",
+        "p_val_adj": "0.00035487908547936",
+        "cluster": "Normal",
+        "gene": "ZNF609",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.31212054090328e-08",
+        "avg_log2FC": "0.837897099891832",
+        "pct.1": "0.766",
+        "pct.2": "0.557",
+        "p_val_adj": "0.00035584709069297",
+        "cluster": "Normal",
+        "gene": "CUX1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.38546511758303e-08",
+        "avg_log2FC": "0.806726217753015",
+        "pct.1": "0.781",
+        "pct.2": "0.625",
+        "p_val_adj": "0.000375738139888518",
+        "cluster": "Normal",
+        "gene": "FOXN3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.40647761650867e-08",
+        "avg_log2FC": "1.59873327633996",
+        "pct.1": "0.394",
+        "pct.2": "0.15",
+        "p_val_adj": "0.000381436729597151",
+        "cluster": "Normal",
+        "gene": "UBE2Q2P2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.46233254962763e-08",
+        "avg_log2FC": "1.2695189456515",
+        "pct.1": "0.504",
+        "pct.2": "0.225",
+        "p_val_adj": "0.000396584587459013",
+        "cluster": "Normal",
+        "gene": "CERT1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.58001093046591e-08",
+        "avg_log2FC": "1.06150003948165",
+        "pct.1": "0.467",
+        "pct.2": "0.19",
+        "p_val_adj": "0.000428498964342354",
+        "cluster": "Normal",
+        "gene": "ZC3H11A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.58580530806528e-08",
+        "avg_log2FC": "1.01039442173618",
+        "pct.1": "0.642",
+        "pct.2": "0.368",
+        "p_val_adj": "0.000430070399547305",
+        "cluster": "Normal",
+        "gene": "SHANK2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.7501286456444e-08",
+        "avg_log2FC": "1.02189435498518",
+        "pct.1": "0.584",
+        "pct.2": "0.292",
+        "p_val_adj": "0.000474634888698761",
+        "cluster": "Normal",
+        "gene": "SEPTIN9",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.75635217681211e-08",
+        "avg_log2FC": "0.958136878491495",
+        "pct.1": "0.715",
+        "pct.2": "0.482",
+        "p_val_adj": "0.000476322710351444",
+        "cluster": "Normal",
+        "gene": "MARK3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.89046248672224e-08",
+        "avg_log2FC": "0.861473234721015",
+        "pct.1": "0.73",
+        "pct.2": "0.486",
+        "p_val_adj": "0.000512693426399071",
+        "cluster": "Normal",
+        "gene": "SPIDR",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.89396260013273e-08",
+        "avg_log2FC": "1.53224763193206",
+        "pct.1": "0.343",
+        "pct.2": "0.111",
+        "p_val_adj": "0.000513642657155995",
+        "cluster": "Normal",
+        "gene": "SEPTIN7P14",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.35941871831464e-08",
+        "avg_log2FC": "0.842795652777563",
+        "pct.1": "0.752",
+        "pct.2": "0.498",
+        "p_val_adj": "0.000639874356406931",
+        "cluster": "Normal",
+        "gene": "STAG1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.47041149307045e-08",
+        "avg_log2FC": "1.02931437691042",
+        "pct.1": "0.628",
+        "pct.2": "0.356",
+        "p_val_adj": "0.000669975596920706",
+        "cluster": "Normal",
+        "gene": "ACACA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.58618344128635e-08",
+        "avg_log2FC": "1.11561471692336",
+        "pct.1": "0.547",
+        "pct.2": "0.277",
+        "p_val_adj": "0.000701372949276858",
+        "cluster": "Normal",
+        "gene": "EXOC6B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.94726287419879e-08",
+        "avg_log2FC": "1.09115774876285",
+        "pct.1": "0.584",
+        "pct.2": "0.296",
+        "p_val_adj": "0.000799297691482713",
+        "cluster": "Normal",
+        "gene": "AOPEP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.26549444020235e-08",
+        "avg_log2FC": "1.24066593427067",
+        "pct.1": "0.489",
+        "pct.2": "0.233",
+        "p_val_adj": "0.000885602092182876",
+        "cluster": "Normal",
+        "gene": "SNHG31",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.5942923734746e-08",
+        "avg_log2FC": "0.883618772428349",
+        "pct.1": "0.715",
+        "pct.2": "0.486",
+        "p_val_adj": "0.000974772091686312",
+        "cluster": "Normal",
+        "gene": "FAF1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.93257691253943e-08",
+        "avg_log2FC": "1.72260493192497",
+        "pct.1": "0.358",
+        "pct.2": "0.13",
+        "p_val_adj": "0.00106651485868069",
+        "cluster": "Normal",
+        "gene": "MRTFB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.62952199788565e-08",
+        "avg_log2FC": "0.578981589758324",
+        "pct.1": "0.891",
+        "pct.2": "0.794",
+        "p_val_adj": "0.00125552636582659",
+        "cluster": "Normal",
+        "gene": "NEDD4L",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.85142249473017e-08",
+        "avg_log2FC": "0.875909816382414",
+        "pct.1": "0.752",
+        "pct.2": "0.589",
+        "p_val_adj": "0.00131570578057082",
+        "cluster": "Normal",
+        "gene": "RBPMS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.44667533353004e-08",
+        "avg_log2FC": "1.38593277182094",
+        "pct.1": "0.409",
+        "pct.2": "0.17",
+        "p_val_adj": "0.00147713835045335",
+        "cluster": "Normal",
+        "gene": "GOLM2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.62963583897678e-08",
+        "avg_log2FC": "1.76654819190048",
+        "pct.1": "0.321",
+        "pct.2": "0.107",
+        "p_val_adj": "0.0015267572395305",
+        "cluster": "Normal",
+        "gene": "PLXDC2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.65784460090645e-08",
+        "avg_log2FC": "0.946461690721304",
+        "pct.1": "0.693",
+        "pct.2": "0.474",
+        "p_val_adj": "0.00153440745576583",
+        "cluster": "Normal",
+        "gene": "EXT1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.75617102847008e-08",
+        "avg_log2FC": "0.873761525674971",
+        "pct.1": "0.737",
+        "pct.2": "0.506",
+        "p_val_adj": "0.00156107358292109",
+        "cluster": "Normal",
+        "gene": "RBM6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.6759860485463e-08",
+        "avg_log2FC": "1.16493247230047",
+        "pct.1": "0.489",
+        "pct.2": "0.233",
+        "p_val_adj": "0.00181052741636576",
+        "cluster": "Normal",
+        "gene": "SNHG5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.72180541755763e-08",
+        "avg_log2FC": "0.636591516415054",
+        "pct.1": "0.839",
+        "pct.2": "0.688",
+        "p_val_adj": "0.00182295362924163",
+        "cluster": "Normal",
+        "gene": "RBM47",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.97895559447635e-08",
+        "avg_log2FC": "1.8520318898962",
+        "pct.1": "0.263",
+        "pct.2": "0.067",
+        "p_val_adj": "0.00189269275722199",
+        "cluster": "Normal",
+        "gene": "ALOX12P2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.25433047753899e-08",
+        "avg_log2FC": "1.53968388373756",
+        "pct.1": "0.321",
+        "pct.2": "0.103",
+        "p_val_adj": "0.00196737442550858",
+        "cluster": "Normal",
+        "gene": "PLAAT4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.67378611556063e-08",
+        "avg_log2FC": "1.92294209709214",
+        "pct.1": "0.146",
+        "pct.2": "0.012",
+        "p_val_adj": "0.00208113079454004",
+        "cluster": "Normal",
+        "gene": "FBXO30-DT",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.70773795016301e-08",
+        "avg_log2FC": "1.07734847520134",
+        "pct.1": "0.635",
+        "pct.2": "0.443",
+        "p_val_adj": "0.00209033853208421",
+        "cluster": "Normal",
+        "gene": "UNC13B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.87010772099656e-08",
+        "avg_log2FC": "1.5708610747188",
+        "pct.1": "0.365",
+        "pct.2": "0.138",
+        "p_val_adj": "0.00213437321393427",
+        "cluster": "Normal",
+        "gene": "XKR6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.00198572046648e-08",
+        "avg_log2FC": "0.92028506279826",
+        "pct.1": "0.628",
+        "pct.2": "0.32",
+        "p_val_adj": "0.00217013852739051",
+        "cluster": "Normal",
+        "gene": "NPIPB4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.17824836163502e-08",
+        "avg_log2FC": "1.13354558781459",
+        "pct.1": "0.489",
+        "pct.2": "0.225",
+        "p_val_adj": "0.00248914095567542",
+        "cluster": "Normal",
+        "gene": "SNHG32",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.85276465076656e-08",
+        "avg_log2FC": "1.00499045633163",
+        "pct.1": "0.569",
+        "pct.2": "0.32",
+        "p_val_adj": "0.00267206977328789",
+        "cluster": "Normal",
+        "gene": "ERBB4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.10390134320135e-07",
+        "avg_log2FC": "1.03514750222936",
+        "pct.1": "0.642",
+        "pct.2": "0.439",
+        "p_val_adj": "0.00299378044276207",
+        "cluster": "Normal",
+        "gene": "NXN",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.12754181047277e-07",
+        "avg_log2FC": "1.05812971032023",
+        "pct.1": "0.504",
+        "pct.2": "0.233",
+        "p_val_adj": "0.00305789339000216",
+        "cluster": "Normal",
+        "gene": "MARCHF6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.17704015842138e-07",
+        "avg_log2FC": "0.948492927392576",
+        "pct.1": "0.613",
+        "pct.2": "0.32",
+        "p_val_adj": "0.00319213290963877",
+        "cluster": "Normal",
+        "gene": "CYP2B7P",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.22004196705058e-07",
+        "avg_log2FC": "1.2822552826217",
+        "pct.1": "0.482",
+        "pct.2": "0.229",
+        "p_val_adj": "0.00330875381464116",
+        "cluster": "Normal",
+        "gene": "RGPD5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.25934215200971e-07",
+        "avg_log2FC": "1.12388625797141",
+        "pct.1": "0.54",
+        "pct.2": "0.292",
+        "p_val_adj": "0.00341533591625033",
+        "cluster": "Normal",
+        "gene": "SYTL3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.34238812308349e-07",
+        "avg_log2FC": "1.48524120368328",
+        "pct.1": "0.299",
+        "pct.2": "0.091",
+        "p_val_adj": "0.00364055658980241",
+        "cluster": "Normal",
+        "gene": "CBR3-AS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.42361969289928e-07",
+        "avg_log2FC": "0.834629081378664",
+        "pct.1": "0.657",
+        "pct.2": "0.403",
+        "p_val_adj": "0.00386085660714284",
+        "cluster": "Normal",
+        "gene": "PRKCE",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.46481949587657e-07",
+        "avg_log2FC": "1.13642736639756",
+        "pct.1": "0.416",
+        "pct.2": "0.17",
+        "p_val_adj": "0.00397259047281727",
+        "cluster": "Normal",
+        "gene": "SEPTIN2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.48886157891344e-07",
+        "avg_log2FC": "0.909735073288521",
+        "pct.1": "0.715",
+        "pct.2": "0.557",
+        "p_val_adj": "0.00403779260201326",
+        "cluster": "Normal",
+        "gene": "TACC2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.50179786198889e-07",
+        "avg_log2FC": "1.73744315283204",
+        "pct.1": "0.263",
+        "pct.2": "0.071",
+        "p_val_adj": "0.00407287580171386",
+        "cluster": "Normal",
+        "gene": "SLX1B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.69985275968297e-07",
+        "avg_log2FC": "0.668574660682592",
+        "pct.1": "0.796",
+        "pct.2": "0.577",
+        "p_val_adj": "0.00461000068426021",
+        "cluster": "Normal",
+        "gene": "ZFAND3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.74371727479193e-07",
+        "avg_log2FC": "0.964847000898418",
+        "pct.1": "0.642",
+        "pct.2": "0.403",
+        "p_val_adj": "0.00472896124923571",
+        "cluster": "Normal",
+        "gene": "BTBD9",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.84267071368969e-07",
+        "avg_log2FC": "1.16838492402708",
+        "pct.1": "0.409",
+        "pct.2": "0.17",
+        "p_val_adj": "0.00499732297552643",
+        "cluster": "Normal",
+        "gene": "TVP23C-CDRT4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.86277013197541e-07",
+        "avg_log2FC": "0.989137127927233",
+        "pct.1": "0.65",
+        "pct.2": "0.447",
+        "p_val_adj": "0.00505183259791732",
+        "cluster": "Normal",
+        "gene": "IGF1R",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.98175822379132e-07",
+        "avg_log2FC": "0.842812734387719",
+        "pct.1": "0.679",
+        "pct.2": "0.379",
+        "p_val_adj": "0.00537452830292205",
+        "cluster": "Normal",
+        "gene": "ARMC9",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.99022858139334e-07",
+        "avg_log2FC": "1.33586321788063",
+        "pct.1": "0.438",
+        "pct.2": "0.209",
+        "p_val_adj": "0.00539749991273875",
+        "cluster": "Normal",
+        "gene": "HLCS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.08180207483902e-07",
+        "avg_log2FC": "2.16279957542441",
+        "pct.1": "0.175",
+        "pct.2": "0.028",
+        "p_val_adj": "0.00564584722696342",
+        "cluster": "Normal",
+        "gene": "CRPPA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.09032083430498e-07",
+        "avg_log2FC": "1.48785994363591",
+        "pct.1": "0.365",
+        "pct.2": "0.142",
+        "p_val_adj": "0.00566895010263511",
+        "cluster": "Normal",
+        "gene": "ARL10",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.19600714447426e-07",
+        "avg_log2FC": "0.769528067008393",
+        "pct.1": "0.679",
+        "pct.2": "0.36",
+        "p_val_adj": "0.00595557137581419",
+        "cluster": "Normal",
+        "gene": "MTND2P28",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.20662306337366e-07",
+        "avg_log2FC": "0.885794326087922",
+        "pct.1": "0.65",
+        "pct.2": "0.387",
+        "p_val_adj": "0.00598436174786936",
+        "cluster": "Normal",
+        "gene": "PLEKHA7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.34312544165866e-07",
+        "avg_log2FC": "0.792239032235098",
+        "pct.1": "0.737",
+        "pct.2": "0.51",
+        "p_val_adj": "0.00635455619777827",
+        "cluster": "Normal",
+        "gene": "ZSWIM6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.42191533868988e-07",
+        "avg_log2FC": "1.04424978557715",
+        "pct.1": "0.423",
+        "pct.2": "0.182",
+        "p_val_adj": "0.00656823439852695",
+        "cluster": "Normal",
+        "gene": "PMF1-BGLAP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.56769279081899e-07",
+        "avg_log2FC": "1.14233869749117",
+        "pct.1": "0.489",
+        "pct.2": "0.233",
+        "p_val_adj": "0.00696358284870111",
+        "cluster": "Normal",
+        "gene": "SPDYE16",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.67337301129411e-07",
+        "avg_log2FC": "1.12502575263256",
+        "pct.1": "0.445",
+        "pct.2": "0.19",
+        "p_val_adj": "0.00725018760662962",
+        "cluster": "Normal",
+        "gene": "CYP4Z2P",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.84160836446789e-07",
+        "avg_log2FC": "1.02458608782817",
+        "pct.1": "0.54",
+        "pct.2": "0.292",
+        "p_val_adj": "0.00770644188443692",
+        "cluster": "Normal",
+        "gene": "GPHN",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.9215693398385e-07",
+        "avg_log2FC": "0.883682804263322",
+        "pct.1": "0.664",
+        "pct.2": "0.447",
+        "p_val_adj": "0.00792329604964202",
+        "cluster": "Normal",
+        "gene": "SMURF1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.94944210624893e-07",
+        "avg_log2FC": "1.12438107601243",
+        "pct.1": "0.533",
+        "pct.2": "0.296",
+        "p_val_adj": "0.0079988869921471",
+        "cluster": "Normal",
+        "gene": "MAML3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.49958396497131e-07",
+        "avg_log2FC": "1.33323708283884",
+        "pct.1": "0.307",
+        "pct.2": "0.099",
+        "p_val_adj": "0.0094908717130022",
+        "cluster": "Normal",
+        "gene": "PRORP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.87602460793666e-07",
+        "avg_log2FC": "0.991722758606019",
+        "pct.1": "0.569",
+        "pct.2": "0.348",
+        "p_val_adj": "0.0105117787367242",
+        "cluster": "Normal",
+        "gene": "PSD3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.93900029410016e-07",
+        "avg_log2FC": "1.07081620259716",
+        "pct.1": "0.584",
+        "pct.2": "0.352",
+        "p_val_adj": "0.0106825687975996",
+        "cluster": "Normal",
+        "gene": "RAD51B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.03582684374811e-07",
+        "avg_log2FC": "1.54549226117018",
+        "pct.1": "0.358",
+        "pct.2": "0.146",
+        "p_val_adj": "0.0109451624002449",
+        "cluster": "Normal",
+        "gene": "PLAAT3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.15151779782711e-07",
+        "avg_log2FC": "1.59787163833717",
+        "pct.1": "0.328",
+        "pct.2": "0.119",
+        "p_val_adj": "0.0112589162677071",
+        "cluster": "Normal",
+        "gene": "SEPTIN7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.20023243033548e-07",
+        "avg_log2FC": "0.832672209080084",
+        "pct.1": "0.606",
+        "pct.2": "0.356",
+        "p_val_adj": "0.0113910303510698",
+        "cluster": "Normal",
+        "gene": "PTPRG",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.51087729771308e-07",
+        "avg_log2FC": "0.801960211337525",
+        "pct.1": "0.73",
+        "pct.2": "0.605",
+        "p_val_adj": "0.0122334992313979",
+        "cluster": "Normal",
+        "gene": "ANK3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.63067119300224e-07",
+        "avg_log2FC": "1.28193381419164",
+        "pct.1": "0.401",
+        "pct.2": "0.174",
+        "p_val_adj": "0.0125583802754221",
+        "cluster": "Normal",
+        "gene": "EPB42",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.70317699250363e-07",
+        "avg_log2FC": "0.891234987266231",
+        "pct.1": "0.409",
+        "pct.2": "0.174",
+        "p_val_adj": "0.0127550160036698",
+        "cluster": "Normal",
+        "gene": "PIGL",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.9889664151399e-07",
+        "avg_log2FC": "1.12261796374493",
+        "pct.1": "0.46",
+        "pct.2": "0.213",
+        "p_val_adj": "0.0135300769178594",
+        "cluster": "Normal",
+        "gene": "NME1-NME2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.10770582107186e-07",
+        "avg_log2FC": "0.763737806311723",
+        "pct.1": "0.752",
+        "pct.2": "0.569",
+        "p_val_adj": "0.0138520981867469",
+        "cluster": "Normal",
+        "gene": "CELF2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.14237406825739e-07",
+        "avg_log2FC": "1.13015234215856",
+        "pct.1": "0.518",
+        "pct.2": "0.289",
+        "p_val_adj": "0.013946118473114",
+        "cluster": "Normal",
+        "gene": "EEF1G",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.19726687557169e-07",
+        "avg_log2FC": "0.826780214917038",
+        "pct.1": "0.715",
+        "pct.2": "0.494",
+        "p_val_adj": "0.0140949877665504",
+        "cluster": "Normal",
+        "gene": "TXNRD1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.27849581953795e-07",
+        "avg_log2FC": "0.849566040850362",
+        "pct.1": "0.679",
+        "pct.2": "0.482",
+        "p_val_adj": "0.0143152806625869",
+        "cluster": "Normal",
+        "gene": "MCU",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.39718047833282e-07",
+        "avg_log2FC": "0.933221040901364",
+        "pct.1": "0.584",
+        "pct.2": "0.372",
+        "p_val_adj": "0.0146371534572386",
+        "cluster": "Normal",
+        "gene": "SAMD12",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.14866594526008e-07",
+        "avg_log2FC": "1.3832199865762",
+        "pct.1": "0.409",
+        "pct.2": "0.194",
+        "p_val_adj": "0.0166751820435453",
+        "cluster": "Normal",
+        "gene": "REPS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.53483273682356e-07",
+        "avg_log2FC": "1.25550098242329",
+        "pct.1": "0.547",
+        "pct.2": "0.364",
+        "p_val_adj": "0.0177224663822655",
+        "cluster": "Normal",
+        "gene": "ELOVL5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.62212084565805e-07",
+        "avg_log2FC": "1.30229379195764",
+        "pct.1": "0.511",
+        "pct.2": "0.316",
+        "p_val_adj": "0.0179591917334246",
+        "cluster": "Normal",
+        "gene": "JARID2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.94912959306841e-07",
+        "avg_log2FC": "1.18173869737639",
+        "pct.1": "0.489",
+        "pct.2": "0.261",
+        "p_val_adj": "0.0188460394564015",
+        "cluster": "Normal",
+        "gene": "ABR",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.99015339755341e-07",
+        "avg_log2FC": "0.937376469703809",
+        "pct.1": "0.65",
+        "pct.2": "0.427",
+        "p_val_adj": "0.0189572960141648",
+        "cluster": "Normal",
+        "gene": "ERC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.06816152629976e-07",
+        "avg_log2FC": "1.6905612368728",
+        "pct.1": "0.358",
+        "pct.2": "0.158",
+        "p_val_adj": "0.019168854059325",
+        "cluster": "Normal",
+        "gene": "TASP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.16678369636335e-07",
+        "avg_log2FC": "1.04739784700697",
+        "pct.1": "0.453",
+        "pct.2": "0.209",
+        "p_val_adj": "0.0194363173845374",
+        "cluster": "Normal",
+        "gene": "DTX2P1-UPK3BP1-PMS2P11",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.38021753254983e-07",
+        "avg_log2FC": "0.923965208906586",
+        "pct.1": "0.679",
+        "pct.2": "0.478",
+        "p_val_adj": "0.0200151499482752",
+        "cluster": "Normal",
+        "gene": "AUTS2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.14804355983184e-07",
+        "avg_log2FC": "1.98749368069482",
+        "pct.1": "0.204",
+        "pct.2": "0.047",
+        "p_val_adj": "0.0220974941342639",
+        "cluster": "Normal",
+        "gene": "CHN2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.20246553613915e-07",
+        "avg_log2FC": "0.95731038299423",
+        "pct.1": "0.518",
+        "pct.2": "0.273",
+        "p_val_adj": "0.0222450865340094",
+        "cluster": "Normal",
+        "gene": "NRXN3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.25393511507134e-07",
+        "avg_log2FC": "1.15099142686825",
+        "pct.1": "0.482",
+        "pct.2": "0.261",
+        "p_val_adj": "0.0223846720320735",
+        "cluster": "Normal",
+        "gene": "ASAP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.40905429505714e-07",
+        "avg_log2FC": "1.8045905298542",
+        "pct.1": "0.19",
+        "pct.2": "0.04",
+        "p_val_adj": "0.022805355248195",
+        "cluster": "Normal",
+        "gene": "PRKY",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.43165491652781e-07",
+        "avg_log2FC": "1.00321106900174",
+        "pct.1": "0.628",
+        "pct.2": "0.447",
+        "p_val_adj": "0.0228666481336234",
+        "cluster": "Normal",
+        "gene": "TCF7L2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.46639660892359e-07",
+        "avg_log2FC": "1.02328584349647",
+        "pct.1": "0.504",
+        "pct.2": "0.269",
+        "p_val_adj": "0.0229608676034008",
+        "cluster": "Normal",
+        "gene": "LARGE1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.65402283808152e-07",
+        "avg_log2FC": "1.01505091575536",
+        "pct.1": "0.628",
+        "pct.2": "0.419",
+        "p_val_adj": "0.0234697099368771",
+        "cluster": "Normal",
+        "gene": "ARHGAP32",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.28239303215419e-07",
+        "avg_log2FC": "1.14424431948719",
+        "pct.1": "0.394",
+        "pct.2": "0.17",
+        "p_val_adj": "0.0251738499032022",
+        "cluster": "Normal",
+        "gene": "DLG2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.00122052819407e-06",
+        "avg_log2FC": "0.845099173378889",
+        "pct.1": "0.679",
+        "pct.2": "0.486",
+        "p_val_adj": "0.0271531007246231",
+        "cluster": "Normal",
+        "gene": "ATXN1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.00726416995234e-06",
+        "avg_log2FC": "1.19142065905915",
+        "pct.1": "0.387",
+        "pct.2": "0.166",
+        "p_val_adj": "0.0273170042891073",
+        "cluster": "Normal",
+        "gene": "MATR3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.1268905289043e-06",
+        "avg_log2FC": "0.714500815512773",
+        "pct.1": "0.737",
+        "pct.2": "0.581",
+        "p_val_adj": "0.0305612711438845",
+        "cluster": "Normal",
+        "gene": "ANKRD17",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.14443296433109e-06",
+        "avg_log2FC": "1.16919551806556",
+        "pct.1": "0.401",
+        "pct.2": "0.174",
+        "p_val_adj": "0.0310370219926591",
+        "cluster": "Normal",
+        "gene": "LSAMP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.17538666908409e-06",
+        "avg_log2FC": "0.872569145395911",
+        "pct.1": "0.672",
+        "pct.2": "0.482",
+        "p_val_adj": "0.0318764864655606",
+        "cluster": "Normal",
+        "gene": "USP54",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.2006001289468e-06",
+        "avg_log2FC": "0.67352199515645",
+        "pct.1": "0.737",
+        "pct.2": "0.581",
+        "p_val_adj": "0.0325602754970371",
+        "cluster": "Normal",
+        "gene": "PACSIN2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.20424304307292e-06",
+        "avg_log2FC": "1.00128537764505",
+        "pct.1": "0.606",
+        "pct.2": "0.391",
+        "p_val_adj": "0.0326590713281376",
+        "cluster": "Normal",
+        "gene": "TMCC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.24926622127948e-06",
+        "avg_log2FC": "0.792010669304785",
+        "pct.1": "0.708",
+        "pct.2": "0.569",
+        "p_val_adj": "0.0338800999210995",
+        "cluster": "Normal",
+        "gene": "PDXDC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.27045616069815e-06",
+        "avg_log2FC": "1.37216146732619",
+        "pct.1": "0.248",
+        "pct.2": "0.071",
+        "p_val_adj": "0.0344547710781338",
+        "cluster": "Normal",
+        "gene": "HSPE1-MOB4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.31396598542132e-06",
+        "avg_log2FC": "1.3310724410602",
+        "pct.1": "0.307",
+        "pct.2": "0.111",
+        "p_val_adj": "0.0356347575246262",
+        "cluster": "Normal",
+        "gene": "LURAP1L-AS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.32487527389067e-06",
+        "avg_log2FC": "1.13864507602139",
+        "pct.1": "0.38",
+        "pct.2": "0.166",
+        "p_val_adj": "0.0359306174279149",
+        "cluster": "Normal",
+        "gene": "LRRC37A3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.33260069459218e-06",
+        "avg_log2FC": "1.34940319039899",
+        "pct.1": "0.387",
+        "pct.2": "0.178",
+        "p_val_adj": "0.0361401308373399",
+        "cluster": "Normal",
+        "gene": "PTPRD",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.3551229981131e-06",
+        "avg_log2FC": "1.39815125907555",
+        "pct.1": "0.277",
+        "pct.2": "0.091",
+        "p_val_adj": "0.0367509357088272",
+        "cluster": "Normal",
+        "gene": "DARS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.4803769975579e-06",
+        "avg_log2FC": "0.94460157071909",
+        "pct.1": "0.569",
+        "pct.2": "0.36",
+        "p_val_adj": "0.0401478241737701",
+        "cluster": "Normal",
+        "gene": "SIPA1L3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.51466214378425e-06",
+        "avg_log2FC": "0.953932982925711",
+        "pct.1": "0.518",
+        "pct.2": "0.269",
+        "p_val_adj": "0.041077637339429",
+        "cluster": "Normal",
+        "gene": "SDHAP2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.51881602358813e-06",
+        "avg_log2FC": "0.993696893183029",
+        "pct.1": "0.431",
+        "pct.2": "0.202",
+        "p_val_adj": "0.0411902905597101",
+        "cluster": "Normal",
+        "gene": "CLVS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.58742133382055e-06",
+        "avg_log2FC": "0.749905655971403",
+        "pct.1": "0.635",
+        "pct.2": "0.356",
+        "p_val_adj": "0.0430508665732134",
+        "cluster": "Normal",
+        "gene": "NPIPB5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.59842412811006e-06",
+        "avg_log2FC": "0.835582046251818",
+        "pct.1": "0.569",
+        "pct.2": "0.34",
+        "p_val_adj": "0.0433492623543447",
+        "cluster": "Normal",
+        "gene": "GABARAP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.63022824251552e-06",
+        "avg_log2FC": "1.4686989618701",
+        "pct.1": "0.314",
+        "pct.2": "0.119",
+        "p_val_adj": "0.0442117899370208",
+        "cluster": "Normal",
+        "gene": "NDUFC2-KCTD14",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.63404557981107e-06",
+        "avg_log2FC": "1.01517573778277",
+        "pct.1": "0.577",
+        "pct.2": "0.395",
+        "p_val_adj": "0.0443153161244762",
+        "cluster": "Normal",
+        "gene": "GAREM1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.64861850162127e-06",
+        "avg_log2FC": "1.15961086396004",
+        "pct.1": "0.46",
+        "pct.2": "0.237",
+        "p_val_adj": "0.0447105337639689",
+        "cluster": "Normal",
+        "gene": "PTPRM",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.77611604883322e-06",
+        "avg_log2FC": "0.816968033022564",
+        "pct.1": "0.511",
+        "pct.2": "0.253",
+        "p_val_adj": "0.048168267244357",
+        "cluster": "Normal",
+        "gene": "CCDC200",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.80756898035287e-06",
+        "avg_log2FC": "1.57054106676037",
+        "pct.1": "0.307",
+        "pct.2": "0.123",
+        "p_val_adj": "0.0490212707471699",
+        "cluster": "Normal",
+        "gene": "CCDC7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.83047485196925e-06",
+        "avg_log2FC": "1.46550450997256",
+        "pct.1": "0.358",
+        "pct.2": "0.158",
+        "p_val_adj": "0.0496424779854059",
+        "cluster": "Normal",
+        "gene": "AGTPBP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.8322060465423e-06",
+        "avg_log2FC": "1.51782936222924",
+        "pct.1": "0.365",
+        "pct.2": "0.166",
+        "p_val_adj": "0.0496894279822272",
+        "cluster": "Normal",
+        "gene": "FOCAD",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.45498975206082e-19",
+        "avg_log2FC": "2.82302280125614",
+        "pct.1": "0.553",
+        "pct.2": "0.102",
+        "p_val_adj": "2.29299322075889e-14",
+        "cluster": "COPD",
+        "gene": "CALM2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.98627634547874e-18",
+        "avg_log2FC": "2.08225368545085",
+        "pct.1": "0.723",
+        "pct.2": "0.336",
+        "p_val_adj": "5.38678144893834e-14",
+        "cluster": "COPD",
+        "gene": "FTH1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.05817316435044e-17",
+        "avg_log2FC": "1.12458114146772",
+        "pct.1": "0.913",
+        "pct.2": "0.73",
+        "p_val_adj": "2.86976562171839e-13",
+        "cluster": "COPD",
+        "gene": "EEF1A1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.6662713143862e-17",
+        "avg_log2FC": "2.39367629710797",
+        "pct.1": "0.581",
+        "pct.2": "0.124",
+        "p_val_adj": "4.51892780461536e-13",
+        "cluster": "COPD",
+        "gene": "H3F3B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.02523749669432e-17",
+        "avg_log2FC": "2.36781252989791",
+        "pct.1": "0.561",
+        "pct.2": "0.117",
+        "p_val_adj": "1.6340444091035e-12",
+        "cluster": "COPD",
+        "gene": "H3F3A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.43838101977268e-16",
+        "avg_log2FC": "2.13022671529874",
+        "pct.1": "0.672",
+        "pct.2": "0.321",
+        "p_val_adj": "3.9008893256235e-12",
+        "cluster": "COPD",
+        "gene": "GAPDH",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.5951544412377e-16",
+        "avg_log2FC": "2.05393935212297",
+        "pct.1": "0.625",
+        "pct.2": "0.226",
+        "p_val_adj": "1.51740588446366e-11",
+        "cluster": "COPD",
+        "gene": "EEF1D",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.52262622873314e-16",
+        "avg_log2FC": "2.47075004119479",
+        "pct.1": "0.526",
+        "pct.2": "0.109",
+        "p_val_adj": "2.31133623323243e-11",
+        "cluster": "COPD",
+        "gene": "ARPC3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.324485138373e-15",
+        "avg_log2FC": "2.2794073578108",
+        "pct.1": "0.53",
+        "pct.2": "0.109",
+        "p_val_adj": "1.71520036952676e-10",
+        "cluster": "COPD",
+        "gene": "HNRNPA1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.19512254000535e-14",
+        "avg_log2FC": "2.24751622504199",
+        "pct.1": "0.53",
+        "pct.2": "0.139",
+        "p_val_adj": "3.24117232849451e-10",
+        "cluster": "COPD",
+        "gene": "CLIC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.62417156676006e-14",
+        "avg_log2FC": "1.93898220714102",
+        "pct.1": "0.636",
+        "pct.2": "0.285",
+        "p_val_adj": "7.11675328905329e-10",
+        "cluster": "COPD",
+        "gene": "UBB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.97172375726345e-14",
+        "avg_log2FC": "1.91956596607744",
+        "pct.1": "0.628",
+        "pct.2": "0.277",
+        "p_val_adj": "8.05931482969847e-10",
+        "cluster": "COPD",
+        "gene": "PRDX1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.44328650198267e-14",
+        "avg_log2FC": "2.463084937669",
+        "pct.1": "0.47",
+        "pct.2": "0.102",
+        "p_val_adj": "1.7474192993377e-09",
+        "cluster": "COPD",
+        "gene": "CLDN7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.49318376217047e-13",
+        "avg_log2FC": "2.52972592936152",
+        "pct.1": "0.458",
+        "pct.2": "0.095",
+        "p_val_adj": "4.04951436300632e-09",
+        "cluster": "COPD",
+        "gene": "AES",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.51938261020126e-13",
+        "avg_log2FC": "1.22327903564722",
+        "pct.1": "0.783",
+        "pct.2": "0.526",
+        "p_val_adj": "4.12056563886582e-09",
+        "cluster": "COPD",
+        "gene": "HLA-C",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.00674285295775e-13",
+        "avg_log2FC": "2.06166164155936",
+        "pct.1": "0.474",
+        "pct.2": "0.109",
+        "p_val_adj": "2.44262866172214e-08",
+        "cluster": "COPD",
+        "gene": "CTSD",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.40634692283909e-12",
+        "avg_log2FC": "2.87328743306497",
+        "pct.1": "0.372",
+        "pct.2": "0.044",
+        "p_val_adj": "3.81401285473962e-08",
+        "cluster": "COPD",
+        "gene": "RARRES3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.44247733908987e-12",
+        "avg_log2FC": "2.34622934959686",
+        "pct.1": "0.443",
+        "pct.2": "0.095",
+        "p_val_adj": "3.91199854361174e-08",
+        "cluster": "COPD",
+        "gene": "NDUFC2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.60694639937097e-12",
+        "avg_log2FC": "2.87453801943029",
+        "pct.1": "0.364",
+        "pct.2": "0.036",
+        "p_val_adj": "4.35803863509407e-08",
+        "cluster": "COPD",
+        "gene": "MTRNR2L1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.90288586143424e-12",
+        "avg_log2FC": "1.96710849704841",
+        "pct.1": "0.482",
+        "pct.2": "0.117",
+        "p_val_adj": "5.16062645620967e-08",
+        "cluster": "COPD",
+        "gene": "UQCR11",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.82105914916551e-12",
+        "avg_log2FC": "1.98411672290059",
+        "pct.1": "0.474",
+        "pct.2": "0.109",
+        "p_val_adj": "7.65071241253687e-08",
+        "cluster": "COPD",
+        "gene": "BTG1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.17635973208529e-12",
+        "avg_log2FC": "1.79877673216397",
+        "pct.1": "0.522",
+        "pct.2": "0.153",
+        "p_val_adj": "8.61428759341531e-08",
+        "cluster": "COPD",
+        "gene": "MUC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.26608976152696e-12",
+        "avg_log2FC": "2.45694907133191",
+        "pct.1": "0.407",
+        "pct.2": "0.073",
+        "p_val_adj": "8.85763543326111e-08",
+        "cluster": "COPD",
+        "gene": "IER3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.44586233850489e-12",
+        "avg_log2FC": "1.87910099269466",
+        "pct.1": "0.522",
+        "pct.2": "0.175",
+        "p_val_adj": "9.34517866202527e-08",
+        "cluster": "COPD",
+        "gene": "ADIRF",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.23511643986821e-11",
+        "avg_log2FC": "2.37664111453783",
+        "pct.1": "0.419",
+        "pct.2": "0.088",
+        "p_val_adj": "3.34963578492258e-07",
+        "cluster": "COPD",
+        "gene": "MIF",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.24269978634647e-11",
+        "avg_log2FC": "1.82568538426596",
+        "pct.1": "0.462",
+        "pct.2": "0.109",
+        "p_val_adj": "3.37020182057163e-07",
+        "cluster": "COPD",
+        "gene": "TSTD1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.28784861086523e-11",
+        "avg_log2FC": "2.02079811895114",
+        "pct.1": "0.435",
+        "pct.2": "0.095",
+        "p_val_adj": "3.49264543266651e-07",
+        "cluster": "COPD",
+        "gene": "NDUFA11",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.74660057131491e-11",
+        "avg_log2FC": "2.08341181277819",
+        "pct.1": "0.391",
+        "pct.2": "0.073",
+        "p_val_adj": "4.73678074940604e-07",
+        "cluster": "COPD",
+        "gene": "H2AFJ",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.79456378231285e-11",
+        "avg_log2FC": "2.10239727688162",
+        "pct.1": "0.447",
+        "pct.2": "0.109",
+        "p_val_adj": "4.86685697763246e-07",
+        "cluster": "COPD",
+        "gene": "MTRNR2L12",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.93009308007844e-11",
+        "avg_log2FC": "2.44547990719776",
+        "pct.1": "0.411",
+        "pct.2": "0.095",
+        "p_val_adj": "5.23441243317273e-07",
+        "cluster": "COPD",
+        "gene": "TMBIM4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.05814520101146e-11",
+        "avg_log2FC": "1.84131910417027",
+        "pct.1": "0.451",
+        "pct.2": "0.109",
+        "p_val_adj": "5.58168978514307e-07",
+        "cluster": "COPD",
+        "gene": "ARL6IP4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.22591008736798e-11",
+        "avg_log2FC": "2.3309006513357",
+        "pct.1": "0.411",
+        "pct.2": "0.102",
+        "p_val_adj": "6.03666815694197e-07",
+        "cluster": "COPD",
+        "gene": "HIGD2A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.42441373563409e-11",
+        "avg_log2FC": "2.66325231684494",
+        "pct.1": "0.36",
+        "pct.2": "0.058",
+        "p_val_adj": "6.57501005103965e-07",
+        "cluster": "COPD",
+        "gene": "BLOC1S1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.62390294889653e-11",
+        "avg_log2FC": "2.53389881364143",
+        "pct.1": "0.407",
+        "pct.2": "0.088",
+        "p_val_adj": "7.11602479740738e-07",
+        "cluster": "COPD",
+        "gene": "NEDD8",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.76534790929571e-11",
+        "avg_log2FC": "1.77298653801472",
+        "pct.1": "0.455",
+        "pct.2": "0.109",
+        "p_val_adj": "7.49962353000996e-07",
+        "cluster": "COPD",
+        "gene": "WDR83OS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.37824365809737e-11",
+        "avg_log2FC": "1.1657715447944",
+        "pct.1": "0.719",
+        "pct.2": "0.474",
+        "p_val_adj": "9.16179680076007e-07",
+        "cluster": "COPD",
+        "gene": "LY6E",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.47736199625696e-11",
+        "avg_log2FC": "0.611538782493458",
+        "pct.1": "0.972",
+        "pct.2": "0.927",
+        "p_val_adj": "9.43060573384889e-07",
+        "cluster": "COPD",
+        "gene": "B2M",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.60592853856966e-11",
+        "avg_log2FC": "1.0415948959305",
+        "pct.1": "0.798",
+        "pct.2": "0.584",
+        "p_val_adj": "9.77927819660093e-07",
+        "cluster": "COPD",
+        "gene": "CXCL17",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.82216029981349e-11",
+        "avg_log2FC": "2.23274254821401",
+        "pct.1": "0.439",
+        "pct.2": "0.109",
+        "p_val_adj": "1.03656987330942e-06",
+        "cluster": "COPD",
+        "gene": "STARD10",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.61332001922071e-11",
+        "avg_log2FC": "0.952813574756633",
+        "pct.1": "0.783",
+        "pct.2": "0.606",
+        "p_val_adj": "1.25113238921266e-06",
+        "cluster": "COPD",
+        "gene": "KRT7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.34328332154465e-11",
+        "avg_log2FC": "2.28995668605602",
+        "pct.1": "0.391",
+        "pct.2": "0.08",
+        "p_val_adj": "1.44909843680291e-06",
+        "cluster": "COPD",
+        "gene": "FKBP1A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.90261221220358e-11",
+        "avg_log2FC": "2.82626558040687",
+        "pct.1": "0.383",
+        "pct.2": "0.088",
+        "p_val_adj": "1.60078843194961e-06",
+        "cluster": "COPD",
+        "gene": "H2AFZ",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.56923423332248e-11",
+        "avg_log2FC": "0.862963062305926",
+        "pct.1": "0.866",
+        "pct.2": "0.708",
+        "p_val_adj": "1.78157632407706e-06",
+        "cluster": "COPD",
+        "gene": "GSTP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.06711403395671e-11",
+        "avg_log2FC": "0.896170248421036",
+        "pct.1": "0.806",
+        "pct.2": "0.606",
+        "p_val_adj": "1.91660132600906e-06",
+        "cluster": "COPD",
+        "gene": "LGALS3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.44578998517567e-11",
+        "avg_log2FC": "1.46885382896976",
+        "pct.1": "0.593",
+        "pct.2": "0.263",
+        "p_val_adj": "2.01929824397964e-06",
+        "cluster": "COPD",
+        "gene": "CALR",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.76969615936138e-11",
+        "avg_log2FC": "1.29316635088677",
+        "pct.1": "0.719",
+        "pct.2": "0.46",
+        "p_val_adj": "2.10714159841881e-06",
+        "cluster": "COPD",
+        "gene": "GSN",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.15202025632942e-11",
+        "avg_log2FC": "2.32670264155849",
+        "pct.1": "0.407",
+        "pct.2": "0.095",
+        "p_val_adj": "2.21082789351654e-06",
+        "cluster": "COPD",
+        "gene": "TMEM205",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.47694377012057e-10",
+        "avg_log2FC": "1.66780810244912",
+        "pct.1": "0.545",
+        "pct.2": "0.226",
+        "p_val_adj": "4.00547150456699e-06",
+        "cluster": "COPD",
+        "gene": "SUMO2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.50047479704806e-10",
+        "avg_log2FC": "0.594787238796671",
+        "pct.1": "0.941",
+        "pct.2": "0.869",
+        "p_val_adj": "4.06928764959435e-06",
+        "cluster": "COPD",
+        "gene": "S100A6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.65475706731302e-10",
+        "avg_log2FC": "2.25011468958015",
+        "pct.1": "0.387",
+        "pct.2": "0.08",
+        "p_val_adj": "4.48770116655291e-06",
+        "cluster": "COPD",
+        "gene": "H2AFY",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.17632258838197e-10",
+        "avg_log2FC": "0.972648585535724",
+        "pct.1": "0.767",
+        "pct.2": "0.562",
+        "p_val_adj": "5.90218685969189e-06",
+        "cluster": "COPD",
+        "gene": "HINT1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.31492423011478e-10",
+        "avg_log2FC": "2.31105401665021",
+        "pct.1": "0.403",
+        "pct.2": "0.102",
+        "p_val_adj": "6.27807451207129e-06",
+        "cluster": "COPD",
+        "gene": "PRDX2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.39218050415029e-10",
+        "avg_log2FC": "0.853911741491058",
+        "pct.1": "0.893",
+        "pct.2": "0.745",
+        "p_val_adj": "6.48759352725558e-06",
+        "cluster": "COPD",
+        "gene": "SLPI",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.41582459649197e-10",
+        "avg_log2FC": "0.929472735354792",
+        "pct.1": "0.806",
+        "pct.2": "0.555",
+        "p_val_adj": "6.55171630568623e-06",
+        "cluster": "COPD",
+        "gene": "HLA-DRB1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.86460024248335e-10",
+        "avg_log2FC": "2.23268389614643",
+        "pct.1": "0.383",
+        "pct.2": "0.088",
+        "p_val_adj": "7.76879585761483e-06",
+        "cluster": "COPD",
+        "gene": "KDELR2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.00804429692271e-10",
+        "avg_log2FC": "2.19592459440746",
+        "pct.1": "0.348",
+        "pct.2": "0.058",
+        "p_val_adj": "8.1578161332544e-06",
+        "cluster": "COPD",
+        "gene": "ARPC1B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.40640514289168e-10",
+        "avg_log2FC": "0.803544670453931",
+        "pct.1": "0.834",
+        "pct.2": "0.679",
+        "p_val_adj": "9.23817074752223e-06",
+        "cluster": "COPD",
+        "gene": "ACTG1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.89713651338733e-10",
+        "avg_log2FC": "2.53193084653195",
+        "pct.1": "0.387",
+        "pct.2": "0.095",
+        "p_val_adj": "1.05690342243064e-05",
+        "cluster": "COPD",
+        "gene": "MINOS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.94166312062443e-10",
+        "avg_log2FC": "2.79943694785333",
+        "pct.1": "0.324",
+        "pct.2": "0.051",
+        "p_val_adj": "1.06897903831334e-05",
+        "cluster": "COPD",
+        "gene": "CYR61",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.10821620683334e-10",
+        "avg_log2FC": "1.38296277271001",
+        "pct.1": "0.49",
+        "pct.2": "0.153",
+        "p_val_adj": "1.1141482352932e-05",
+        "cluster": "COPD",
+        "gene": "PPIB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.4718220384781e-10",
+        "avg_log2FC": "0.771991399744409",
+        "pct.1": "0.846",
+        "pct.2": "0.693",
+        "p_val_adj": "1.21275813683526e-05",
+        "cluster": "COPD",
+        "gene": "UBA52",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.48358382873213e-10",
+        "avg_log2FC": "1.47210614999513",
+        "pct.1": "0.494",
+        "pct.2": "0.175",
+        "p_val_adj": "1.75834793435215e-05",
+        "cluster": "COPD",
+        "gene": "DDT",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.98465788529654e-10",
+        "avg_log2FC": "1.00771544595297",
+        "pct.1": "0.783",
+        "pct.2": "0.577",
+        "p_val_adj": "1.89423921849242e-05",
+        "cluster": "COPD",
+        "gene": "FXYD3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.11998703066752e-10",
+        "avg_log2FC": "2.19061151452383",
+        "pct.1": "0.419",
+        "pct.2": "0.131",
+        "p_val_adj": "2.47334048271703e-05",
+        "cluster": "COPD",
+        "gene": "SRSF9",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.06439779911818e-09",
+        "avg_log2FC": "0.705848310355399",
+        "pct.1": "0.85",
+        "pct.2": "0.701",
+        "p_val_adj": "2.8866468312085e-05",
+        "cluster": "COPD",
+        "gene": "FAU",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.43138918582255e-09",
+        "avg_log2FC": "2.29189496680477",
+        "pct.1": "0.332",
+        "pct.2": "0.058",
+        "p_val_adj": "3.88192747195075e-05",
+        "cluster": "COPD",
+        "gene": "H2AFV",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.54599131785154e-09",
+        "avg_log2FC": "0.980916573399883",
+        "pct.1": "0.719",
+        "pct.2": "0.511",
+        "p_val_adj": "4.19272845401338e-05",
+        "cluster": "COPD",
+        "gene": "EEF1B2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.61968991320744e-09",
+        "avg_log2FC": "2.01413483671924",
+        "pct.1": "0.395",
+        "pct.2": "0.102",
+        "p_val_adj": "4.39259904461857e-05",
+        "cluster": "COPD",
+        "gene": "NDUFB8",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.70059761008389e-09",
+        "avg_log2FC": "0.578600651292724",
+        "pct.1": "0.921",
+        "pct.2": "0.818",
+        "p_val_adj": "4.61202071854752e-05",
+        "cluster": "COPD",
+        "gene": "TPT1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.01958566226055e-09",
+        "avg_log2FC": "0.68276905376275",
+        "pct.1": "0.862",
+        "pct.2": "0.715",
+        "p_val_adj": "5.47711631605062e-05",
+        "cluster": "COPD",
+        "gene": "CD63",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.11625565984967e-09",
+        "avg_log2FC": "2.17853984688324",
+        "pct.1": "0.383",
+        "pct.2": "0.102",
+        "p_val_adj": "5.73928534951231e-05",
+        "cluster": "COPD",
+        "gene": "FAM96B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.20431465853224e-09",
+        "avg_log2FC": "1.92274335239516",
+        "pct.1": "0.379",
+        "pct.2": "0.088",
+        "p_val_adj": "5.97810135393944e-05",
+        "cluster": "COPD",
+        "gene": "VAMP2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.21555190373131e-09",
+        "avg_log2FC": "1.86098151993147",
+        "pct.1": "0.439",
+        "pct.2": "0.146",
+        "p_val_adj": "6.00857676291932e-05",
+        "cluster": "COPD",
+        "gene": "PPP1CA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.52666786746778e-09",
+        "avg_log2FC": "0.634739775894713",
+        "pct.1": "0.913",
+        "pct.2": "0.781",
+        "p_val_adj": "6.85232325657263e-05",
+        "cluster": "COPD",
+        "gene": "CD74",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.69482271902435e-09",
+        "avg_log2FC": "2.14723097805755",
+        "pct.1": "0.336",
+        "pct.2": "0.066",
+        "p_val_adj": "7.30835921399402e-05",
+        "cluster": "COPD",
+        "gene": "CNPY2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.76237854011288e-09",
+        "avg_log2FC": "2.09462656618353",
+        "pct.1": "0.379",
+        "pct.2": "0.102",
+        "p_val_adj": "7.49157060078613e-05",
+        "cluster": "COPD",
+        "gene": "DDIT4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.96510845485874e-09",
+        "avg_log2FC": "1.43766873310142",
+        "pct.1": "0.605",
+        "pct.2": "0.35",
+        "p_val_adj": "8.04137412957691e-05",
+        "cluster": "COPD",
+        "gene": "ZFP36L2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.06838801166179e-09",
+        "avg_log2FC": "1.2802245155021",
+        "pct.1": "0.625",
+        "pct.2": "0.343",
+        "p_val_adj": "8.32146828762677e-05",
+        "cluster": "COPD",
+        "gene": "SPCS1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.26283573247842e-09",
+        "avg_log2FC": "2.85948588419311",
+        "pct.1": "0.249",
+        "pct.2": "0.015",
+        "p_val_adj": "8.84881050648147e-05",
+        "cluster": "COPD",
+        "gene": "NPDC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.38789770467141e-09",
+        "avg_log2FC": "1.3199379981289",
+        "pct.1": "0.565",
+        "pct.2": "0.241",
+        "p_val_adj": "9.18797857506886e-05",
+        "cluster": "COPD",
+        "gene": "MTRNR2L8",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.70747441686311e-09",
+        "avg_log2FC": "0.87617149382314",
+        "pct.1": "0.854",
+        "pct.2": "0.737",
+        "p_val_adj": "0.000100546706185327",
+        "cluster": "COPD",
+        "gene": "WFDC2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.93882613341893e-09",
+        "avg_log2FC": "0.960126076555211",
+        "pct.1": "0.818",
+        "pct.2": "0.606",
+        "p_val_adj": "0.000106820964738321",
+        "cluster": "COPD",
+        "gene": "CSTB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.4323441544105e-09",
+        "avg_log2FC": "2.71540104007021",
+        "pct.1": "0.316",
+        "pct.2": "0.058",
+        "p_val_adj": "0.000120205173467613",
+        "cluster": "COPD",
+        "gene": "PLA2G16",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.42068459581843e-09",
+        "avg_log2FC": "1.96596598113764",
+        "pct.1": "0.344",
+        "pct.2": "0.073",
+        "p_val_adj": "0.000147008966238596",
+        "cluster": "COPD",
+        "gene": "TRAF4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.61448191993695e-09",
+        "avg_log2FC": "1.60896479052678",
+        "pct.1": "0.439",
+        "pct.2": "0.146",
+        "p_val_adj": "0.00015226474966869",
+        "cluster": "COPD",
+        "gene": "PCBP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.71382366670557e-09",
+        "avg_log2FC": "1.92621097443263",
+        "pct.1": "0.372",
+        "pct.2": "0.095",
+        "p_val_adj": "0.000154958897841055",
+        "cluster": "COPD",
+        "gene": "SEPT7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.90065262502549e-09",
+        "avg_log2FC": "1.53658867984173",
+        "pct.1": "0.379",
+        "pct.2": "0.095",
+        "p_val_adj": "0.000187145699190691",
+        "cluster": "COPD",
+        "gene": "EIF6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.14418452703194e-09",
+        "avg_log2FC": "2.0711319601177",
+        "pct.1": "0.372",
+        "pct.2": "0.102",
+        "p_val_adj": "0.000193750284373106",
+        "cluster": "COPD",
+        "gene": "PRELID1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.35622463266123e-09",
+        "avg_log2FC": "2.15422701914919",
+        "pct.1": "0.32",
+        "pct.2": "0.066",
+        "p_val_adj": "0.000199500812037773",
+        "cluster": "COPD",
+        "gene": "ARPC1A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.78007731655117e-09",
+        "avg_log2FC": "0.785616580381949",
+        "pct.1": "0.846",
+        "pct.2": "0.73",
+        "p_val_adj": "0.000210995696824868",
+        "cluster": "COPD",
+        "gene": "S100A11",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.16736322372872e-09",
+        "avg_log2FC": "1.20251191123821",
+        "pct.1": "0.613",
+        "pct.2": "0.35",
+        "p_val_adj": "0.000221498890627523",
+        "cluster": "COPD",
+        "gene": "BAG1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.24133452133395e-09",
+        "avg_log2FC": "2.01654276744091",
+        "pct.1": "0.348",
+        "pct.2": "0.08",
+        "p_val_adj": "0.000223504992218577",
+        "cluster": "COPD",
+        "gene": "CCT5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.54541908239027e-09",
+        "avg_log2FC": "1.8572494896391",
+        "pct.1": "0.375",
+        "pct.2": "0.102",
+        "p_val_adj": "0.000258871765514424",
+        "cluster": "COPD",
+        "gene": "SEPT2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.054014677648e-08",
+        "avg_log2FC": "1.92305117764139",
+        "pct.1": "0.387",
+        "pct.2": "0.109",
+        "p_val_adj": "0.000285848780578138",
+        "cluster": "COPD",
+        "gene": "TMEM179B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.05961168877562e-08",
+        "avg_log2FC": "0.556008401392517",
+        "pct.1": "0.901",
+        "pct.2": "0.803",
+        "p_val_adj": "0.000287366689995948",
+        "cluster": "COPD",
+        "gene": "PTMA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.13294919012809e-08",
+        "avg_log2FC": "0.764230722726971",
+        "pct.1": "0.834",
+        "pct.2": "0.679",
+        "p_val_adj": "0.000307255820362739",
+        "cluster": "COPD",
+        "gene": "CST3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.25923261572849e-08",
+        "avg_log2FC": "0.993220098908791",
+        "pct.1": "0.704",
+        "pct.2": "0.489",
+        "p_val_adj": "0.000341503885385565",
+        "cluster": "COPD",
+        "gene": "TAGLN2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.27556402503425e-08",
+        "avg_log2FC": "1.75167463850686",
+        "pct.1": "0.439",
+        "pct.2": "0.175",
+        "p_val_adj": "0.000345932963589289",
+        "cluster": "COPD",
+        "gene": "MCL1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.2926468448117e-08",
+        "avg_log2FC": "0.954122954268866",
+        "pct.1": "0.751",
+        "pct.2": "0.569",
+        "p_val_adj": "0.000350565824312934",
+        "cluster": "COPD",
+        "gene": "KRT18",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.38152041638284e-08",
+        "avg_log2FC": "0.742305924402605",
+        "pct.1": "0.842",
+        "pct.2": "0.752",
+        "p_val_adj": "0.000374668336923026",
+        "cluster": "COPD",
+        "gene": "HLA-B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.46748747799603e-08",
+        "avg_log2FC": "2.21837580429462",
+        "pct.1": "0.273",
+        "pct.2": "0.036",
+        "p_val_adj": "0.000397982604032524",
+        "cluster": "COPD",
+        "gene": "GPR108",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.50175480888055e-08",
+        "avg_log2FC": "0.534632841566132",
+        "pct.1": "0.901",
+        "pct.2": "0.847",
+        "p_val_adj": "0.000407275904168406",
+        "cluster": "COPD",
+        "gene": "ACTB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.68545190916869e-08",
+        "avg_log2FC": "1.84334770414405",
+        "pct.1": "0.34",
+        "pct.2": "0.08",
+        "p_val_adj": "0.000457094557766549",
+        "cluster": "COPD",
+        "gene": "SELENOH",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.76704010040679e-08",
+        "avg_log2FC": "2.02222752428157",
+        "pct.1": "0.308",
+        "pct.2": "0.058",
+        "p_val_adj": "0.00047922127523032",
+        "cluster": "COPD",
+        "gene": "SOX2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.79025276156093e-08",
+        "avg_log2FC": "0.791445688703295",
+        "pct.1": "0.854",
+        "pct.2": "0.723",
+        "p_val_adj": "0.000485516548935325",
+        "cluster": "COPD",
+        "gene": "KRT19",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.15585758400835e-08",
+        "avg_log2FC": "1.57211307190662",
+        "pct.1": "0.549",
+        "pct.2": "0.299",
+        "p_val_adj": "0.000584668576783065",
+        "cluster": "COPD",
+        "gene": "TUBB4B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.23113255635714e-08",
+        "avg_log2FC": "2.40142909924501",
+        "pct.1": "0.296",
+        "pct.2": "0.058",
+        "p_val_adj": "0.000605083149284056",
+        "cluster": "COPD",
+        "gene": "CHMP1B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.23739941481358e-08",
+        "avg_log2FC": "1.64190396643678",
+        "pct.1": "0.364",
+        "pct.2": "0.102",
+        "p_val_adj": "0.000606782721297443",
+        "cluster": "COPD",
+        "gene": "TRAPPC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.436102573126e-08",
+        "avg_log2FC": "1.06889214230279",
+        "pct.1": "0.672",
+        "pct.2": "0.46",
+        "p_val_adj": "0.000660671017831771",
+        "cluster": "COPD",
+        "gene": "ALDH1A1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.43901327089515e-08",
+        "avg_log2FC": "1.66117008020474",
+        "pct.1": "0.387",
+        "pct.2": "0.117",
+        "p_val_adj": "0.000661460399066764",
+        "cluster": "COPD",
+        "gene": "HLA-DMA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.44725887392578e-08",
+        "avg_log2FC": "0.801575731480946",
+        "pct.1": "0.767",
+        "pct.2": "0.642",
+        "p_val_adj": "0.000663696606608671",
+        "cluster": "COPD",
+        "gene": "HLA-A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.99454117717319e-08",
+        "avg_log2FC": "1.00465822726689",
+        "pct.1": "0.704",
+        "pct.2": "0.489",
+        "p_val_adj": "0.00081211956724937",
+        "cluster": "COPD",
+        "gene": "CLU",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.99690807756119e-08",
+        "avg_log2FC": "1.5001515213442",
+        "pct.1": "0.53",
+        "pct.2": "0.263",
+        "p_val_adj": "0.000812761470634594",
+        "cluster": "COPD",
+        "gene": "HMGN2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.09634183671821e-08",
+        "avg_log2FC": "1.34649823468651",
+        "pct.1": "0.474",
+        "pct.2": "0.182",
+        "p_val_adj": "0.000839727906117979",
+        "cluster": "COPD",
+        "gene": "PDIA6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.24724983971589e-08",
+        "avg_log2FC": "1.62504974844372",
+        "pct.1": "0.364",
+        "pct.2": "0.095",
+        "p_val_adj": "0.000880654156530949",
+        "cluster": "COPD",
+        "gene": "SPTSSA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.27270179246208e-08",
+        "avg_log2FC": "1.32238057811001",
+        "pct.1": "0.557",
+        "pct.2": "0.292",
+        "p_val_adj": "0.000887556726115717",
+        "cluster": "COPD",
+        "gene": "SCPEP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.31730424091783e-08",
+        "avg_log2FC": "1.47210173815353",
+        "pct.1": "0.372",
+        "pct.2": "0.102",
+        "p_val_adj": "0.000899652910136916",
+        "cluster": "COPD",
+        "gene": "EIF4A1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.31841817859946e-08",
+        "avg_log2FC": "1.20373812064871",
+        "pct.1": "0.581",
+        "pct.2": "0.343",
+        "p_val_adj": "0.000899955010036175",
+        "cluster": "COPD",
+        "gene": "PSMA7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.66283556738547e-08",
+        "avg_log2FC": "0.830437556792845",
+        "pct.1": "0.783",
+        "pct.2": "0.62",
+        "p_val_adj": "0.00099336100587494",
+        "cluster": "COPD",
+        "gene": "NACA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.6768847694999e-08",
+        "avg_log2FC": "1.86074227346615",
+        "pct.1": "0.411",
+        "pct.2": "0.146",
+        "p_val_adj": "0.000997171149488372",
+        "cluster": "COPD",
+        "gene": "C1QBP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.9596256621239e-08",
+        "avg_log2FC": "1.97847210333503",
+        "pct.1": "0.356",
+        "pct.2": "0.095",
+        "p_val_adj": "0.001073850479568",
+        "cluster": "COPD",
+        "gene": "PHB",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.1850096698435e-08",
+        "avg_log2FC": "1.10852354540054",
+        "pct.1": "0.644",
+        "pct.2": "0.387",
+        "p_val_adj": "0.00113497462246156",
+        "cluster": "COPD",
+        "gene": "HSPA5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.79722140663731e-08",
+        "avg_log2FC": "1.23172013955771",
+        "pct.1": "0.553",
+        "pct.2": "0.299",
+        "p_val_adj": "0.00130100644548004",
+        "cluster": "COPD",
+        "gene": "PLPP2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.01826133588108e-08",
+        "avg_log2FC": "0.742288416942026",
+        "pct.1": "0.806",
+        "pct.2": "0.62",
+        "p_val_adj": "0.00136095247429095",
+        "cluster": "COPD",
+        "gene": "PIGR",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.05173385303973e-08",
+        "avg_log2FC": "1.31272637506595",
+        "pct.1": "0.439",
+        "pct.2": "0.161",
+        "p_val_adj": "0.00137003022094438",
+        "cluster": "COPD",
+        "gene": "TUBA1B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.31200563279602e-08",
+        "avg_log2FC": "2.04790894149163",
+        "pct.1": "0.296",
+        "pct.2": "0.058",
+        "p_val_adj": "0.00144061592761428",
+        "cluster": "COPD",
+        "gene": "TSTA3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.65924030637908e-08",
+        "avg_log2FC": "2.24099403988372",
+        "pct.1": "0.217",
+        "pct.2": "0.015",
+        "p_val_adj": "0.00180598597109001",
+        "cluster": "COPD",
+        "gene": "FAM213A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.39608420382198e-08",
+        "avg_log2FC": "0.590674129689305",
+        "pct.1": "0.913",
+        "pct.2": "0.781",
+        "p_val_adj": "0.00200581803607652",
+        "cluster": "COPD",
+        "gene": "ANXA2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.82972039930977e-08",
+        "avg_log2FC": "2.07521635967123",
+        "pct.1": "0.352",
+        "pct.2": "0.109",
+        "p_val_adj": "0.00212342017229281",
+        "cluster": "COPD",
+        "gene": "TYMP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.92092555558085e-08",
+        "avg_log2FC": "1.99062786463373",
+        "pct.1": "0.269",
+        "pct.2": "0.044",
+        "p_val_adj": "0.00214815501067353",
+        "cluster": "COPD",
+        "gene": "RNASET2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.44495352251032e-08",
+        "avg_log2FC": "1.49308894740257",
+        "pct.1": "0.431",
+        "pct.2": "0.153",
+        "p_val_adj": "0.0022902713953048",
+        "cluster": "COPD",
+        "gene": "HSD17B11",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.82959237647903e-08",
+        "avg_log2FC": "1.65086058745501",
+        "pct.1": "0.348",
+        "pct.2": "0.095",
+        "p_val_adj": "0.00239458545250111",
+        "cluster": "COPD",
+        "gene": "COX20",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.87530577290895e-08",
+        "avg_log2FC": "1.77958931686736",
+        "pct.1": "0.34",
+        "pct.2": "0.095",
+        "p_val_adj": "0.00267818292561291",
+        "cluster": "COPD",
+        "gene": "ARHGDIA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.12179426856222e-07",
+        "avg_log2FC": "2.15737447492065",
+        "pct.1": "0.213",
+        "pct.2": "0.015",
+        "p_val_adj": "0.00304230605634075",
+        "cluster": "COPD",
+        "gene": "PQLC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.12841270003292e-07",
+        "avg_log2FC": "1.4154525268571",
+        "pct.1": "0.561",
+        "pct.2": "0.307",
+        "p_val_adj": "0.00306025524248928",
+        "cluster": "COPD",
+        "gene": "AQP5",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.36248595344631e-07",
+        "avg_log2FC": "1.95910691039796",
+        "pct.1": "0.3",
+        "pct.2": "0.073",
+        "p_val_adj": "0.0036950619057464",
+        "cluster": "COPD",
+        "gene": "SARS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.38609569273036e-07",
+        "avg_log2FC": "1.52367866234256",
+        "pct.1": "0.336",
+        "pct.2": "0.088",
+        "p_val_adj": "0.00375909151868473",
+        "cluster": "COPD",
+        "gene": "PSMA2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.53231502457883e-07",
+        "avg_log2FC": "1.71503922309928",
+        "pct.1": "0.253",
+        "pct.2": "0.036",
+        "p_val_adj": "0.00415563834665778",
+        "cluster": "COPD",
+        "gene": "CHMP4A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.55318552803699e-07",
+        "avg_log2FC": "1.85535333260391",
+        "pct.1": "0.285",
+        "pct.2": "0.058",
+        "p_val_adj": "0.00421223915203633",
+        "cluster": "COPD",
+        "gene": "EPRS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.68110206656847e-07",
+        "avg_log2FC": "1.87764566589597",
+        "pct.1": "0.249",
+        "pct.2": "0.036",
+        "p_val_adj": "0.00455914880453368",
+        "cluster": "COPD",
+        "gene": "SYNJ2BP",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.71734810566763e-07",
+        "avg_log2FC": "1.74373796224372",
+        "pct.1": "0.36",
+        "pct.2": "0.117",
+        "p_val_adj": "0.00465744806257062",
+        "cluster": "COPD",
+        "gene": "ICAM1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.74907642523605e-07",
+        "avg_log2FC": "0.994024075148473",
+        "pct.1": "0.625",
+        "pct.2": "0.401",
+        "p_val_adj": "0.00474349526524017",
+        "cluster": "COPD",
+        "gene": "EID1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.755782640854e-07",
+        "avg_log2FC": "1.90666437229851",
+        "pct.1": "0.352",
+        "pct.2": "0.109",
+        "p_val_adj": "0.00476168252199604",
+        "cluster": "COPD",
+        "gene": "SURF1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.91333173356546e-07",
+        "avg_log2FC": "1.76448183337378",
+        "pct.1": "0.332",
+        "pct.2": "0.095",
+        "p_val_adj": "0.00518895566142952",
+        "cluster": "COPD",
+        "gene": "PRSS8",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.12561186858839e-07",
+        "avg_log2FC": "0.930862209834662",
+        "pct.1": "0.684",
+        "pct.2": "0.482",
+        "p_val_adj": "0.00576465938761172",
+        "cluster": "COPD",
+        "gene": "OST4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.1810329242978e-07",
+        "avg_log2FC": "1.85883950050995",
+        "pct.1": "0.443",
+        "pct.2": "0.204",
+        "p_val_adj": "0.00591496129069564",
+        "cluster": "COPD",
+        "gene": "ARL1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.2895974364449e-07",
+        "avg_log2FC": "1.32375318860423",
+        "pct.1": "0.589",
+        "pct.2": "0.372",
+        "p_val_adj": "0.00620938824763857",
+        "cluster": "COPD",
+        "gene": "NUCB2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.66593875160105e-07",
+        "avg_log2FC": "2.33622852957713",
+        "pct.1": "0.253",
+        "pct.2": "0.044",
+        "p_val_adj": "0.00723002589434204",
+        "cluster": "COPD",
+        "gene": "CTGF",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.69312477378149e-07",
+        "avg_log2FC": "0.922475552040017",
+        "pct.1": "0.684",
+        "pct.2": "0.453",
+        "p_val_adj": "0.0073037543864954",
+        "cluster": "COPD",
+        "gene": "EDF1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.76875239631993e-07",
+        "avg_log2FC": "1.17113274844851",
+        "pct.1": "0.664",
+        "pct.2": "0.438",
+        "p_val_adj": "0.00750885649881965",
+        "cluster": "COPD",
+        "gene": "TIMP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "2.82153983676777e-07",
+        "avg_log2FC": "1.03846721042676",
+        "pct.1": "0.636",
+        "pct.2": "0.423",
+        "p_val_adj": "0.0076520160373142",
+        "cluster": "COPD",
+        "gene": "CD81",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.28102271648708e-07",
+        "avg_log2FC": "0.546751019324446",
+        "pct.1": "0.854",
+        "pct.2": "0.737",
+        "p_val_adj": "0.00889813360711297",
+        "cluster": "COPD",
+        "gene": "PABPC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.45725224691229e-07",
+        "avg_log2FC": "2.94797739168696",
+        "pct.1": "0.17",
+        "pct.2": "0",
+        "p_val_adj": "0.00937606809362613",
+        "cluster": "COPD",
+        "gene": "ADH1C",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.52663081755667e-07",
+        "avg_log2FC": "1.83190321791374",
+        "pct.1": "0.292",
+        "pct.2": "0.073",
+        "p_val_adj": "0.00956422277721368",
+        "cluster": "COPD",
+        "gene": "SEPT9",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.56083259364188e-07",
+        "avg_log2FC": "0.80219207661504",
+        "pct.1": "0.881",
+        "pct.2": "0.723",
+        "p_val_adj": "0.00965697799395677",
+        "cluster": "COPD",
+        "gene": "SCGB3A1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.62780549032774e-07",
+        "avg_log2FC": "1.40348184125179",
+        "pct.1": "0.431",
+        "pct.2": "0.175",
+        "p_val_adj": "0.00983860848976883",
+        "cluster": "COPD",
+        "gene": "LRP10",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.76415580592538e-07",
+        "avg_log2FC": "0.683843441951548",
+        "pct.1": "0.802",
+        "pct.2": "0.672",
+        "p_val_adj": "0.0102083905456696",
+        "cluster": "COPD",
+        "gene": "HLA-DRA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "3.95431183822546e-07",
+        "avg_log2FC": "0.774015045266301",
+        "pct.1": "0.747",
+        "pct.2": "0.569",
+        "p_val_adj": "0.0107240937052674",
+        "cluster": "COPD",
+        "gene": "TMEM59",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.03886286721684e-07",
+        "avg_log2FC": "1.19762426010072",
+        "pct.1": "0.36",
+        "pct.2": "0.109",
+        "p_val_adj": "0.0109533960958921",
+        "cluster": "COPD",
+        "gene": "KIAA1324",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.41105862073465e-07",
+        "avg_log2FC": "1.55981683527595",
+        "pct.1": "0.34",
+        "pct.2": "0.102",
+        "p_val_adj": "0.0119627909794324",
+        "cluster": "COPD",
+        "gene": "STUB1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.56429487060835e-07",
+        "avg_log2FC": "0.539327176615954",
+        "pct.1": "0.905",
+        "pct.2": "0.781",
+        "p_val_adj": "0.0123783676890898",
+        "cluster": "COPD",
+        "gene": "TMSB10",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.68568856596771e-07",
+        "avg_log2FC": "0.743316643307236",
+        "pct.1": "0.759",
+        "pct.2": "0.591",
+        "p_val_adj": "0.0127075873909044",
+        "cluster": "COPD",
+        "gene": "MYL12B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.7966786070253e-07",
+        "avg_log2FC": "1.92053557450803",
+        "pct.1": "0.289",
+        "pct.2": "0.073",
+        "p_val_adj": "0.0130085923822526",
+        "cluster": "COPD",
+        "gene": "SMIM7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.82709931996724e-07",
+        "avg_log2FC": "1.44296317395858",
+        "pct.1": "0.545",
+        "pct.2": "0.307",
+        "p_val_adj": "0.0130910933557511",
+        "cluster": "COPD",
+        "gene": "LMAN2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.90099912549437e-07",
+        "avg_log2FC": "1.54204459104477",
+        "pct.1": "0.324",
+        "pct.2": "0.095",
+        "p_val_adj": "0.0132915096283407",
+        "cluster": "COPD",
+        "gene": "RAB5C",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "4.98484116864534e-07",
+        "avg_log2FC": "1.36049783723363",
+        "pct.1": "0.285",
+        "pct.2": "0.073",
+        "p_val_adj": "0.0135188892493662",
+        "cluster": "COPD",
+        "gene": "NARS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.03642499046048e-07",
+        "avg_log2FC": "1.03367583581118",
+        "pct.1": "0.545",
+        "pct.2": "0.314",
+        "p_val_adj": "0.0136587845741288",
+        "cluster": "COPD",
+        "gene": "CCND1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.16749754633887e-07",
+        "avg_log2FC": "1.92729857394751",
+        "pct.1": "0.261",
+        "pct.2": "0.051",
+        "p_val_adj": "0.014014253345671",
+        "cluster": "COPD",
+        "gene": "PPP2CA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.43437259113578e-07",
+        "avg_log2FC": "1.94711440525512",
+        "pct.1": "0.209",
+        "pct.2": "0.022",
+        "p_val_adj": "0.0147380184671602",
+        "cluster": "COPD",
+        "gene": "TAF9",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.64327870993665e-07",
+        "avg_log2FC": "0.750011416074618",
+        "pct.1": "0.739",
+        "pct.2": "0.547",
+        "p_val_adj": "0.0153045718613482",
+        "cluster": "COPD",
+        "gene": "SSR4",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.644973694344e-07",
+        "avg_log2FC": "1.63689907825527",
+        "pct.1": "0.328",
+        "pct.2": "0.102",
+        "p_val_adj": "0.0153091686590609",
+        "cluster": "COPD",
+        "gene": "FAM129B",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.65405119598715e-07",
+        "avg_log2FC": "1.39780908908958",
+        "pct.1": "0.443",
+        "pct.2": "0.197",
+        "p_val_adj": "0.0153337868435172",
+        "cluster": "COPD",
+        "gene": "EI24",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "5.8649293969311e-07",
+        "avg_log2FC": "1.50883823854808",
+        "pct.1": "0.32",
+        "pct.2": "0.088",
+        "p_val_adj": "0.0159056885244771",
+        "cluster": "COPD",
+        "gene": "MARCH6",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.01132989116384e-07",
+        "avg_log2FC": "1.869274405159",
+        "pct.1": "0.198",
+        "pct.2": "0.015",
+        "p_val_adj": "0.0163027266648363",
+        "cluster": "COPD",
+        "gene": "SAA2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.21894341011464e-07",
+        "avg_log2FC": "1.62368163920862",
+        "pct.1": "0.269",
+        "pct.2": "0.058",
+        "p_val_adj": "0.0168657745282309",
+        "cluster": "COPD",
+        "gene": "H1F0",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.3008553554405e-07",
+        "avg_log2FC": "1.85415458658707",
+        "pct.1": "0.372",
+        "pct.2": "0.139",
+        "p_val_adj": "0.0170879197239546",
+        "cluster": "COPD",
+        "gene": "NDUFS7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.40722090316079e-07",
+        "avg_log2FC": "1.39003608887513",
+        "pct.1": "0.462",
+        "pct.2": "0.197",
+        "p_val_adj": "0.0173763830893721",
+        "cluster": "COPD",
+        "gene": "ST6GALNAC1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.56107504989635e-07",
+        "avg_log2FC": "1.76772099542184",
+        "pct.1": "0.324",
+        "pct.2": "0.095",
+        "p_val_adj": "0.0177936355353189",
+        "cluster": "COPD",
+        "gene": "IDH3G",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.56719560868583e-07",
+        "avg_log2FC": "1.35734249254242",
+        "pct.1": "0.383",
+        "pct.2": "0.139",
+        "p_val_adj": "0.017810234490756",
+        "cluster": "COPD",
+        "gene": "TMEM238",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "6.81616378820899e-07",
+        "avg_log2FC": "1.20779311973319",
+        "pct.1": "0.53",
+        "pct.2": "0.27",
+        "p_val_adj": "0.0184854361936228",
+        "cluster": "COPD",
+        "gene": "NDUFA2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.17003979433088e-07",
+        "avg_log2FC": "1.68473742582529",
+        "pct.1": "0.289",
+        "pct.2": "0.073",
+        "p_val_adj": "0.0194451479222254",
+        "cluster": "COPD",
+        "gene": "POLR2F",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.34875467073211e-07",
+        "avg_log2FC": "1.86173117375993",
+        "pct.1": "0.253",
+        "pct.2": "0.051",
+        "p_val_adj": "0.0199298226670255",
+        "cluster": "COPD",
+        "gene": "ASNA1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "7.71613700163141e-07",
+        "avg_log2FC": "2.24000223564996",
+        "pct.1": "0.249",
+        "pct.2": "0.051",
+        "p_val_adj": "0.0209261635484244",
+        "cluster": "COPD",
+        "gene": "TMEM173",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.14311201930524e-07",
+        "avg_log2FC": "1.62847329672922",
+        "pct.1": "0.49",
+        "pct.2": "0.255",
+        "p_val_adj": "0.0220841197963558",
+        "cluster": "COPD",
+        "gene": "GSTA1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.17907426826607e-07",
+        "avg_log2FC": "0.594979821138553",
+        "pct.1": "0.826",
+        "pct.2": "0.715",
+        "p_val_adj": "0.0221816494155376",
+        "cluster": "COPD",
+        "gene": "CYB5A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.5105518946938e-07",
+        "avg_log2FC": "1.21641487377745",
+        "pct.1": "0.577",
+        "pct.2": "0.365",
+        "p_val_adj": "0.0230806167384096",
+        "cluster": "COPD",
+        "gene": "AQP3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "8.70668962177768e-07",
+        "avg_log2FC": "1.16774393240454",
+        "pct.1": "0.292",
+        "pct.2": "0.073",
+        "p_val_adj": "0.0236125422542611",
+        "cluster": "COPD",
+        "gene": "PDCD2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.00147930988843e-07",
+        "avg_log2FC": "1.83678329804614",
+        "pct.1": "0.391",
+        "pct.2": "0.161",
+        "p_val_adj": "0.0244120118884174",
+        "cluster": "COPD",
+        "gene": "MAGED2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.19199886370669e-07",
+        "avg_log2FC": "1.09850005033336",
+        "pct.1": "0.613",
+        "pct.2": "0.358",
+        "p_val_adj": "0.0249287009183726",
+        "cluster": "COPD",
+        "gene": "NDUFB7",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.66741119364251e-07",
+        "avg_log2FC": "2.08804201958124",
+        "pct.1": "0.257",
+        "pct.2": "0.058",
+        "p_val_adj": "0.0262180191571585",
+        "cluster": "COPD",
+        "gene": "HEXA",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.77771728517056e-07",
+        "avg_log2FC": "1.72492793910012",
+        "pct.1": "0.296",
+        "pct.2": "0.08",
+        "p_val_adj": "0.0265171692773826",
+        "cluster": "COPD",
+        "gene": "ARL6IP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.77853494269647e-07",
+        "avg_log2FC": "4.73914830144928",
+        "pct.1": "0.158",
+        "pct.2": "0",
+        "p_val_adj": "0.0265193867645928",
+        "cluster": "COPD",
+        "gene": "GNB2L1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "9.88258106309762e-07",
+        "avg_log2FC": "1.10410995969514",
+        "pct.1": "0.324",
+        "pct.2": "0.095",
+        "p_val_adj": "0.0268015598431207",
+        "cluster": "COPD",
+        "gene": "H1FX",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.00133587913116e-06",
+        "avg_log2FC": "2.29237496302461",
+        "pct.1": "0.257",
+        "pct.2": "0.058",
+        "p_val_adj": "0.0271562290420369",
+        "cluster": "COPD",
+        "gene": "KARS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.01163192044983e-06",
+        "avg_log2FC": "1.40585426791273",
+        "pct.1": "0.47",
+        "pct.2": "0.248",
+        "p_val_adj": "0.0274354576825993",
+        "cluster": "COPD",
+        "gene": "PTP4A2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.07009051523371e-06",
+        "avg_log2FC": "3.07570988833252",
+        "pct.1": "0.198",
+        "pct.2": "0.022",
+        "p_val_adj": "0.0290208547731382",
+        "cluster": "COPD",
+        "gene": "LY6D",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.12159025732221e-06",
+        "avg_log2FC": "1.20230169256578",
+        "pct.1": "0.66",
+        "pct.2": "0.467",
+        "p_val_adj": "0.0304175277785782",
+        "cluster": "COPD",
+        "gene": "EIF3K",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.21802959578589e-06",
+        "avg_log2FC": "1.64034286072708",
+        "pct.1": "0.383",
+        "pct.2": "0.153",
+        "p_val_adj": "0.0330329626377133",
+        "cluster": "COPD",
+        "gene": "DGUOK",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.23569478379196e-06",
+        "avg_log2FC": "1.63384328557738",
+        "pct.1": "0.281",
+        "pct.2": "0.073",
+        "p_val_adj": "0.0335120425364379",
+        "cluster": "COPD",
+        "gene": "QARS",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.27460842736355e-06",
+        "avg_log2FC": "0.599770693974005",
+        "pct.1": "0.889",
+        "pct.2": "0.818",
+        "p_val_adj": "0.0345673805500994",
+        "cluster": "COPD",
+        "gene": "SERF2",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.40555187549263e-06",
+        "avg_log2FC": "2.02443290630264",
+        "pct.1": "0.245",
+        "pct.2": "0.051",
+        "p_val_adj": "0.0381185668633602",
+        "cluster": "COPD",
+        "gene": "HIGD1A",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.40797495438349e-06",
+        "avg_log2FC": "1.49615558415871",
+        "pct.1": "0.348",
+        "pct.2": "0.117",
+        "p_val_adj": "0.0381842807628802",
+        "cluster": "COPD",
+        "gene": "PSMA1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.46831182756816e-06",
+        "avg_log2FC": "0.746944307605486",
+        "pct.1": "0.727",
+        "pct.2": "0.584",
+        "p_val_adj": "0.0398206167636485",
+        "cluster": "COPD",
+        "gene": "POLR2L",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.47051148112909e-06",
+        "avg_log2FC": "0.759712893562098",
+        "pct.1": "0.755",
+        "pct.2": "0.584",
+        "p_val_adj": "0.0398802713682209",
+        "cluster": "COPD",
+        "gene": "VAMP8",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.60682851392412e-06",
+        "avg_log2FC": "2.27834739238229",
+        "pct.1": "0.241",
+        "pct.2": "0.051",
+        "p_val_adj": "0.0435771892976222",
+        "cluster": "COPD",
+        "gene": "GCHFR",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.66823187679532e-06",
+        "avg_log2FC": "1.67131188925991",
+        "pct.1": "0.332",
+        "pct.2": "0.109",
+        "p_val_adj": "0.0452424484986891",
+        "cluster": "COPD",
+        "gene": "FKBP3",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.68501298989076e-06",
+        "avg_log2FC": "1.12738728444417",
+        "pct.1": "0.498",
+        "pct.2": "0.248",
+        "p_val_adj": "0.0456975522858373",
+        "cluster": "COPD",
+        "gene": "CD82",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.7541503975128e-06",
+        "avg_log2FC": "1.21725392632772",
+        "pct.1": "0.36",
+        "pct.2": "0.124",
+        "p_val_adj": "0.0475725587805472",
+        "cluster": "COPD",
+        "gene": "NKX2-1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.76979144733384e-06",
+        "avg_log2FC": "1.26539452527413",
+        "pct.1": "0.34",
+        "pct.2": "0.102",
+        "p_val_adj": "0.0479967440516936",
+        "cluster": "COPD",
+        "gene": "HIST1H4C",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.77652148704759e-06",
+        "avg_log2FC": "1.44959710223803",
+        "pct.1": "0.292",
+        "pct.2": "0.08",
+        "p_val_adj": "0.0481792627287306",
+        "cluster": "COPD",
+        "gene": "CTBP1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.79822823090592e-06",
+        "avg_log2FC": "0.776116224883785",
+        "pct.1": "0.708",
+        "pct.2": "0.511",
+        "p_val_adj": "0.0487679496221686",
+        "cluster": "COPD",
+        "gene": "YBX1",
+        "celltype": "Epithelial"
+    },
+    {
+        "p_val": "1.83760550394492e-06",
+        "avg_log2FC": "1.16301148329634",
+        "pct.1": "0.3",
+        "pct.2": "0.088",
+        "p_val_adj": "0.0498358612669863",
+        "cluster": "COPD",
+        "gene": "PABPN1",
+        "celltype": "Epithelial"
+    }
+]

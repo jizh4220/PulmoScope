@@ -1,0 +1,412 @@
+[
+    {
+        "param": "E-MTAB-11278",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "EGAS00001004481",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "ERP114453",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "Fib_Atlas",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE121080",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE122960",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE126030",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE132771",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE132914",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE134355",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE135893",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE136831",
+        "groups": "COPD",
+        "counts": "1820"
+    },
+    {
+        "param": "GSE137026",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE139534",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE139555",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE139819",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE150247",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE157376",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE158942",
+        "groups": "COPD",
+        "counts": "120"
+    },
+    {
+        "param": "GSE160664",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE161382",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE167295",
+        "groups": "COPD",
+        "counts": "330"
+    },
+    {
+        "param": "GSE168191",
+        "groups": "COPD",
+        "counts": "1526"
+    },
+    {
+        "param": "GSE169471",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE171524",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE173896",
+        "groups": "COPD",
+        "counts": "1155"
+    },
+    {
+        "param": "GSE181388",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE196303",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "GSE196341",
+        "groups": "COPD",
+        "counts": "4900"
+    },
+    {
+        "param": "GSE227136",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "HCL",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "HTAN_MSK",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "munich_cohort_human",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "P115_Syn21041850_Lung_scRNASEQ",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "P86_COVID19CELLATLAS_Lung_Parenchyma_scRNASEQ",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "P87_COVID19CELLATLAS_Lung_Bronchi_scRNASEQ",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "P88_COVID19CELLATLAS_Lung_Nasal_scRNASEQ",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "P90_COVID19CELLATLAS_Lung_scRNASEQ",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "P91_COVID19CELLATLAS_Lung_scRNASEQ",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "Travaglini_Krasnow_2020",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "Vieira_Teichmann_2019",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "E-MTAB-11278",
+        "groups": "Normal",
+        "counts": "262"
+    },
+    {
+        "param": "EGAS00001004481",
+        "groups": "Normal",
+        "counts": "21"
+    },
+    {
+        "param": "ERP114453",
+        "groups": "Normal",
+        "counts": "499"
+    },
+    {
+        "param": "Fib_Atlas",
+        "groups": "Normal",
+        "counts": "10"
+    },
+    {
+        "param": "GSE121080",
+        "groups": "Normal",
+        "counts": "228"
+    },
+    {
+        "param": "GSE122960",
+        "groups": "Normal",
+        "counts": "316"
+    },
+    {
+        "param": "GSE126030",
+        "groups": "Normal",
+        "counts": "40"
+    },
+    {
+        "param": "GSE132771",
+        "groups": "Normal",
+        "counts": "825"
+    },
+    {
+        "param": "GSE132914",
+        "groups": "Normal",
+        "counts": "105"
+    },
+    {
+        "param": "GSE134355",
+        "groups": "Normal",
+        "counts": "36"
+    },
+    {
+        "param": "GSE135893",
+        "groups": "Normal",
+        "counts": "485"
+    },
+    {
+        "param": "GSE136831",
+        "groups": "Normal",
+        "counts": "744"
+    },
+    {
+        "param": "GSE137026",
+        "groups": "Normal",
+        "counts": "180"
+    },
+    {
+        "param": "GSE139534",
+        "groups": "Normal",
+        "counts": "118"
+    },
+    {
+        "param": "GSE139555",
+        "groups": "Normal",
+        "counts": "220"
+    },
+    {
+        "param": "GSE139819",
+        "groups": "Normal",
+        "counts": "164"
+    },
+    {
+        "param": "GSE150247",
+        "groups": "Normal",
+        "counts": "181"
+    },
+    {
+        "param": "GSE157376",
+        "groups": "Normal",
+        "counts": "19"
+    },
+    {
+        "param": "GSE158942",
+        "groups": "Normal",
+        "counts": "0"
+    },
+    {
+        "param": "GSE160664",
+        "groups": "Normal",
+        "counts": "27"
+    },
+    {
+        "param": "GSE161382",
+        "groups": "Normal",
+        "counts": "126"
+    },
+    {
+        "param": "GSE167295",
+        "groups": "Normal",
+        "counts": "0"
+    },
+    {
+        "param": "GSE168191",
+        "groups": "Normal",
+        "counts": "613"
+    },
+    {
+        "param": "GSE169471",
+        "groups": "Normal",
+        "counts": "19"
+    },
+    {
+        "param": "GSE171524",
+        "groups": "Normal",
+        "counts": "327"
+    },
+    {
+        "param": "GSE173896",
+        "groups": "Normal",
+        "counts": "86"
+    },
+    {
+        "param": "GSE181388",
+        "groups": "Normal",
+        "counts": "181"
+    },
+    {
+        "param": "GSE196303",
+        "groups": "Normal",
+        "counts": "498"
+    },
+    {
+        "param": "GSE196341",
+        "groups": "Normal",
+        "counts": "0"
+    },
+    {
+        "param": "GSE227136",
+        "groups": "Normal",
+        "counts": "1876"
+    },
+    {
+        "param": "HCL",
+        "groups": "Normal",
+        "counts": "199"
+    },
+    {
+        "param": "HTAN_MSK",
+        "groups": "Normal",
+        "counts": "76"
+    },
+    {
+        "param": "munich_cohort_human",
+        "groups": "Normal",
+        "counts": "188"
+    },
+    {
+        "param": "P115_Syn21041850_Lung_scRNASEQ",
+        "groups": "Normal",
+        "counts": "418"
+    },
+    {
+        "param": "P86_COVID19CELLATLAS_Lung_Parenchyma_scRNASEQ",
+        "groups": "Normal",
+        "counts": "114"
+    },
+    {
+        "param": "P87_COVID19CELLATLAS_Lung_Bronchi_scRNASEQ",
+        "groups": "Normal",
+        "counts": "215"
+    },
+    {
+        "param": "P88_COVID19CELLATLAS_Lung_Nasal_scRNASEQ",
+        "groups": "Normal",
+        "counts": "91"
+    },
+    {
+        "param": "P90_COVID19CELLATLAS_Lung_scRNASEQ",
+        "groups": "Normal",
+        "counts": "327"
+    },
+    {
+        "param": "P91_COVID19CELLATLAS_Lung_scRNASEQ",
+        "groups": "Normal",
+        "counts": "210"
+    },
+    {
+        "param": "Travaglini_Krasnow_2020",
+        "groups": "Normal",
+        "counts": "66"
+    },
+    {
+        "param": "Vieira_Teichmann_2019",
+        "groups": "Normal",
+        "counts": "21"
+    }
+]

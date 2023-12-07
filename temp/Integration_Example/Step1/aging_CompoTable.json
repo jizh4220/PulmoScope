@@ -1,0 +1,72 @@
+[
+    {
+        "param": "<1",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "1~17",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "15",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "18~40",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "41~54",
+        "groups": "COPD",
+        "counts": "9"
+    },
+    {
+        "param": "55~",
+        "groups": "COPD",
+        "counts": "4492"
+    },
+    {
+        "param": "unknown",
+        "groups": "COPD",
+        "counts": "5350"
+    },
+    {
+        "param": "<1",
+        "groups": "Normal",
+        "counts": "262"
+    },
+    {
+        "param": "1~17",
+        "groups": "Normal",
+        "counts": "28"
+    },
+    {
+        "param": "15",
+        "groups": "Normal",
+        "counts": "1"
+    },
+    {
+        "param": "18~40",
+        "groups": "Normal",
+        "counts": "1098"
+    },
+    {
+        "param": "41~54",
+        "groups": "Normal",
+        "counts": "792"
+    },
+    {
+        "param": "55~",
+        "groups": "Normal",
+        "counts": "2210"
+    },
+    {
+        "param": "unknown",
+        "groups": "Normal",
+        "counts": "5740"
+    }
+]

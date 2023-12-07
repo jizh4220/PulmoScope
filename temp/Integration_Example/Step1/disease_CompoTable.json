@@ -1,0 +1,22 @@
+[
+    {
+        "param": "COPD",
+        "groups": "COPD",
+        "counts": "9851"
+    },
+    {
+        "param": "Normal",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "COPD",
+        "groups": "Normal",
+        "counts": "0"
+    },
+    {
+        "param": "Normal",
+        "groups": "Normal",
+        "counts": "10131"
+    }
+]

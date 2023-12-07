@@ -1,0 +1,72 @@
+[
+    {
+        "celltype": "Airway Epithelial",
+        "COPD": "140",
+        "Normal": "140"
+    },
+    {
+        "celltype": "AT1",
+        "COPD": "403",
+        "Normal": "407"
+    },
+    {
+        "celltype": "AT2",
+        "COPD": "910",
+        "Normal": "932"
+    },
+    {
+        "celltype": "Basal",
+        "COPD": "240",
+        "Normal": "247"
+    },
+    {
+        "celltype": "Ciliated",
+        "COPD": "612",
+        "Normal": "649"
+    },
+    {
+        "celltype": "DC",
+        "COPD": "568",
+        "Normal": "607"
+    },
+    {
+        "celltype": "Endothelial",
+        "COPD": "985",
+        "Normal": "1000"
+    },
+    {
+        "celltype": "Fibroblast",
+        "COPD": "483",
+        "Normal": "488"
+    },
+    {
+        "celltype": "Macrophages",
+        "COPD": "1333",
+        "Normal": "1350"
+    },
+    {
+        "celltype": "Monocytes",
+        "COPD": "709",
+        "Normal": "726"
+    },
+    {
+        "celltype": "NK+T",
+        "COPD": "1310",
+        "Normal": "1321"
+    },
+    {
+        "celltype": "Plasma+B",
+        "COPD": "452",
+        "Normal": "574"
+    },
+    {
+        "celltype": "Secretory",
+        "COPD": "1272",
+        "Normal": "1251"
+    },
+    {
+        "celltype": "Stromal",
+        "COPD": "434",
+        "Normal": "439"
+    }
+]

@@ -1,0 +1,3332 @@
+[
+    {
+        "groups": "COPD",
+        "accession": "101CV0ng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "101CV0ng_LUNG",
+        "counts": "22"
+    },
+    {
+        "groups": "COPD",
+        "accession": "16E0F2ng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "16E0F2ng_LUNG",
+        "counts": "25"
+    },
+    {
+        "groups": "COPD",
+        "accession": "1A1DFBng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "1A1DFBng_LUNG",
+        "counts": "24"
+    },
+    {
+        "groups": "COPD",
+        "accession": "343B_0h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "343B_0h",
+        "counts": "7"
+    },
+    {
+        "groups": "COPD",
+        "accession": "343B_24h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "343B_24h",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "343B_72h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "343B_72h",
+        "counts": "36"
+    },
+    {
+        "groups": "COPD",
+        "accession": "356C_0h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "356C_0h",
+        "counts": "32"
+    },
+    {
+        "groups": "COPD",
+        "accession": "356C_12h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "356C_12h",
+        "counts": "31"
+    },
+    {
+        "groups": "COPD",
+        "accession": "356C_24h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "356C_24h",
+        "counts": "36"
+    },
+    {
+        "groups": "COPD",
+        "accession": "356C_72h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "356C_72h",
+        "counts": "32"
+    },
+    {
+        "groups": "COPD",
+        "accession": "367C_0h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "367C_0h",
+        "counts": "38"
+    },
+    {
+        "groups": "COPD",
+        "accession": "367C_12h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "367C_12h",
+        "counts": "43"
+    },
+    {
+        "groups": "COPD",
+        "accession": "367C_24h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "367C_24h",
+        "counts": "14"
+    },
+    {
+        "groups": "COPD",
+        "accession": "367C_72h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "367C_72h",
+        "counts": "36"
+    },
+    {
+        "groups": "COPD",
+        "accession": "368C_0h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "368C_0h",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "368C_12h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "368C_12h",
+        "counts": "24"
+    },
+    {
+        "groups": "COPD",
+        "accession": "368C_24h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "368C_24h",
+        "counts": "17"
+    },
+    {
+        "groups": "COPD",
+        "accession": "368C_72h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "368C_72h",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "390C_0h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "390C_0h",
+        "counts": "29"
+    },
+    {
+        "groups": "COPD",
+        "accession": "390C_12h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "390C_12h",
+        "counts": "40"
+    },
+    {
+        "groups": "COPD",
+        "accession": "390C_24h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "390C_24h",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "390C_72h",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "390C_72h",
+        "counts": "31"
+    },
+    {
+        "groups": "COPD",
+        "accession": "4951STDY7472265_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "4951STDY7472265_LUNG",
+        "counts": "23"
+    },
+    {
+        "groups": "COPD",
+        "accession": "4951STDY7472266_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "4951STDY7472266_LUNG",
+        "counts": "72"
+    },
+    {
+        "groups": "COPD",
+        "accession": "4951STDY7472267_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "4951STDY7472267_LUNG",
+        "counts": "51"
+    },
+    {
+        "groups": "COPD",
+        "accession": "4951STDY7487591_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "4951STDY7487591_LUNG",
+        "counts": "27"
+    },
+    {
+        "groups": "COPD",
+        "accession": "4951STDY7487592_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "4951STDY7487592_LUNG",
+        "counts": "32"
+    },
+    {
+        "groups": "COPD",
+        "accession": "4951STDY7487593_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "4951STDY7487593_LUNG",
+        "counts": "19"
+    },
+    {
+        "groups": "COPD",
+        "accession": "9JQK55ng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "9JQK55ng_LUNG",
+        "counts": "23"
+    },
+    {
+        "groups": "COPD",
+        "accession": "A9LCTZng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "A9LCTZng_LUNG",
+        "counts": "58"
+    },
+    {
+        "groups": "COPD",
+        "accession": "AdultLung_1",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "AdultLung_1",
+        "counts": "81"
+    },
+    {
+        "groups": "COPD",
+        "accession": "AdultLung_2",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "AdultLung_2",
+        "counts": "36"
+    },
+    {
+        "groups": "COPD",
+        "accession": "AdultLung_3",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "AdultLung_3",
+        "counts": "72"
+    },
+    {
+        "groups": "COPD",
+        "accession": "CTTV027_RNAseq6949176_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "CTTV027_RNAseq6949176_LUNG",
+        "counts": "14"
+    },
+    {
+        "groups": "COPD",
+        "accession": "CTTV027_RNAseq6949177_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "CTTV027_RNAseq6949177_LUNG",
+        "counts": "19"
+    },
+    {
+        "groups": "COPD",
+        "accession": "CTTV027_RNAseq7118945_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "CTTV027_RNAseq7118945_LUNG",
+        "counts": "7"
+    },
+    {
+        "groups": "COPD",
+        "accession": "CTTV027_RNAseq7118946_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "CTTV027_RNAseq7118946_LUNG",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "CTTV027_RNAseq7333557_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "CTTV027_RNAseq7333557_LUNG",
+        "counts": "29"
+    },
+    {
+        "groups": "COPD",
+        "accession": "D088_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "D088_LUNG",
+        "counts": "42"
+    },
+    {
+        "groups": "COPD",
+        "accession": "D122_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "D122_LUNG",
+        "counts": "11"
+    },
+    {
+        "groups": "COPD",
+        "accession": "D150_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "D150_LUNG",
+        "counts": "54"
+    },
+    {
+        "groups": "COPD",
+        "accession": "D175_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "D175_LUNG",
+        "counts": "9"
+    },
+    {
+        "groups": "COPD",
+        "accession": "D231_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "D231_LUNG",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "distal_1a_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "distal_1a_LUNG",
+        "counts": "1"
+    },
+    {
+        "groups": "COPD",
+        "accession": "distal_1b_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "distal_1b_LUNG",
+        "counts": "1"
+    },
+    {
+        "groups": "COPD",
+        "accession": "distal_2_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "distal_2_LUNG",
+        "counts": "5"
+    },
+    {
+        "groups": "COPD",
+        "accession": "distal_3_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "distal_3_LUNG",
+        "counts": "1"
+    },
+    {
+        "groups": "COPD",
+        "accession": "ERR8048258",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "ERR8048258",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "ERR8048273",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "ERR8048273",
+        "counts": "162"
+    },
+    {
+        "groups": "COPD",
+        "accession": "ERR8048274",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "ERR8048274",
+        "counts": "72"
+    },
+    {
+        "groups": "COPD",
+        "accession": "FetalLung_1",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "FetalLung_1",
+        "counts": "4"
+    },
+    {
+        "groups": "COPD",
+        "accession": "FetalLung_2",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "FetalLung_2",
+        "counts": "6"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Fib_Atlas",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Fib_Atlas",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3425686",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3425686",
+        "counts": "46"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3425687",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3425687",
+        "counts": "32"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3425692",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3425692",
+        "counts": "88"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3425693",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3425693",
+        "counts": "62"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489182",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489182",
+        "counts": "47"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489185",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489185",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489187",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489187",
+        "counts": "42"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489189",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489189",
+        "counts": "46"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489191",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489191",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489193",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489193",
+        "counts": "27"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489195",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489195",
+        "counts": "56"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3489197",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3489197",
+        "counts": "42"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3589406",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3589406",
+        "counts": "23"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3589407",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3589407",
+        "counts": "17"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891620",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891620",
+        "counts": "119"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891621",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891621",
+        "counts": "55"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891622",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891622",
+        "counts": "54"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891623",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891623",
+        "counts": "92"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891624",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891624",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891625",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891625",
+        "counts": "78"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891632",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891632",
+        "counts": "149"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891633",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891633",
+        "counts": "145"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891634",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891634",
+        "counts": "44"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3891635",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3891635",
+        "counts": "61"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3896324",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3896324",
+        "counts": "37"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3896325",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3896325",
+        "counts": "54"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM3896326",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM3896326",
+        "counts": "14"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4008628",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4008628",
+        "counts": "15"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4008629",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4008629",
+        "counts": "4"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4008630",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4008630",
+        "counts": "2"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4008631",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4008631",
+        "counts": "7"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4008632",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4008632",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4008633",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4008633",
+        "counts": "5"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037301",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037301",
+        "counts": "44"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037302",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037302",
+        "counts": "50"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037305",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037305",
+        "counts": "134"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037306",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037306",
+        "counts": "44"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037309",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037309",
+        "counts": "16"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037313",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037313",
+        "counts": "43"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037316",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037316",
+        "counts": "19"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037323",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037323",
+        "counts": "19"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037324",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037324",
+        "counts": "45"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4037325",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4037325",
+        "counts": "71"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058901",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058901",
+        "counts": "9"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058904",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058904",
+        "counts": "108"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058905",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058905",
+        "counts": "6"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058907",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058907",
+        "counts": "31"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058908",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058908",
+        "counts": "11"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058909",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058909",
+        "counts": "25"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058913",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058913",
+        "counts": "63"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058914",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058914",
+        "counts": "56"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058915",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058915",
+        "counts": "12"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058916",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058916",
+        "counts": "25"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058917",
+        "counts": "159"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058917",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058918",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058918",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058919",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058919",
+        "counts": "15"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058920",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058920",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058921",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058921",
+        "counts": "29"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058922",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058922",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058923",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058923",
+        "counts": "9"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058924",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058924",
+        "counts": "12"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058925",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058925",
+        "counts": "4"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058926",
+        "counts": "1"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058926",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058927",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058927",
+        "counts": "22"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058928",
+        "counts": "93"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058928",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058931",
+        "counts": "76"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058931",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058932",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058932",
+        "counts": "31"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058933",
+        "counts": "151"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058933",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058934",
+        "counts": "67"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058934",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058935",
+        "counts": "122"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058935",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058936",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058936",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058937",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058937",
+        "counts": "39"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058938",
+        "counts": "42"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058938",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058939",
+        "counts": "123"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058939",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058940",
+        "counts": "127"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058940",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058941",
+        "counts": "52"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058941",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058942",
+        "counts": "16"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058942",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058947",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058947",
+        "counts": "33"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058949",
+        "counts": "128"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058949",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058953",
+        "counts": "166"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058953",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058956",
+        "counts": "64"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058956",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058957",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058957",
+        "counts": "76"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058962",
+        "counts": "106"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058962",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058963",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058963",
+        "counts": "6"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058971",
+        "counts": "132"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058971",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058973",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058973",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058975",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058975",
+        "counts": "55"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058976",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058976",
+        "counts": "25"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4058977",
+        "counts": "195"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4058977",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4065876",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4065876",
+        "counts": "14"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4065877",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4065877",
+        "counts": "14"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4065878",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4065878",
+        "counts": "30"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4065879",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4065879",
+        "counts": "30"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143262",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143262",
+        "counts": "154"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143263",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143263",
+        "counts": "128"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143656",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143656",
+        "counts": "21"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143658",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143658",
+        "counts": "18"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143660",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143660",
+        "counts": "75"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143662",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143662",
+        "counts": "2"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143664",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143664",
+        "counts": "45"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4143666",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4143666",
+        "counts": "59"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4321402",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4321402",
+        "counts": "32"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4321403",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4321403",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4321404",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4321404",
+        "counts": "31"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4321405",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4321405",
+        "counts": "9"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4544005",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4544005",
+        "counts": "47"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4544006",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4544006",
+        "counts": "55"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4544007",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4544007",
+        "counts": "79"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4763859",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4763859",
+        "counts": "9"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4763860",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4763860",
+        "counts": "4"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4763861",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4763861",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4763863",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4763863",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4816089",
+        "counts": "120"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4816089",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4876617",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4876617",
+        "counts": "16"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM4876620",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM4876620",
+        "counts": "11"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5100998",
+        "counts": "165"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5100998",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5100999",
+        "counts": "82"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5100999",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5101000",
+        "counts": "83"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5101000",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133588",
+        "counts": "344"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133588",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133589",
+        "counts": "340"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133589",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133590",
+        "counts": "184"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133590",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133591",
+        "counts": "135"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133591",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133592",
+        "counts": "177"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133592",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133593",
+        "counts": "112"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133593",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133594",
+        "counts": "234"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133594",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133595",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133595",
+        "counts": "52"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133596",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133596",
+        "counts": "54"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133597",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133597",
+        "counts": "34"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133598",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133598",
+        "counts": "30"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133599",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133599",
+        "counts": "66"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133600",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133600",
+        "counts": "64"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133601",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133601",
+        "counts": "45"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133602",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133602",
+        "counts": "35"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133603",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133603",
+        "counts": "48"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133604",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133604",
+        "counts": "68"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133605",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133605",
+        "counts": "58"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5133606",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5133606",
+        "counts": "59"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5206782",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5206782",
+        "counts": "2"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5206783",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5206783",
+        "counts": "6"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5206784",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5206784",
+        "counts": "11"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5226574",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5226574",
+        "counts": "53"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5226575",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5226575",
+        "counts": "43"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5226576",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5226576",
+        "counts": "89"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5226577",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5226577",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5226578",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5226578",
+        "counts": "59"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5226579",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5226579",
+        "counts": "23"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5226580",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5226580",
+        "counts": "32"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282537",
+        "counts": "436"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282537",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282538",
+        "counts": "73"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282538",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282539",
+        "counts": "88"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282539",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282540",
+        "counts": "68"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282540",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282541",
+        "counts": "116"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282541",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282542",
+        "counts": "47"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282542",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282543",
+        "counts": "8"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282543",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282544",
+        "counts": "138"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282544",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282545",
+        "counts": "181"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282545",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282546",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282546",
+        "counts": "11"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282547",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282547",
+        "counts": "35"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5282548",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5282548",
+        "counts": "40"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5501481",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5501481",
+        "counts": "161"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5501482",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5501482",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870246",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870246",
+        "counts": "91"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870247",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870247",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870248",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870248",
+        "counts": "118"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870249",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870249",
+        "counts": "24"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870251",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870251",
+        "counts": "53"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870252",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870252",
+        "counts": "25"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870253",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870253",
+        "counts": "57"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870254",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870254",
+        "counts": "39"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870255",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870255",
+        "counts": "65"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5870257",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5870257",
+        "counts": "23"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873135",
+        "counts": "286"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873135",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873136",
+        "counts": "153"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873136",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873137",
+        "counts": "408"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873137",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873138",
+        "counts": "67"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873138",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873139",
+        "counts": "101"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873139",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873140",
+        "counts": "472"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873140",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873141",
+        "counts": "232"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873141",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873142",
+        "counts": "2392"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873142",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873143",
+        "counts": "299"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873143",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873144",
+        "counts": "33"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873144",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873145",
+        "counts": "245"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873145",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM5873146",
+        "counts": "212"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM5873146",
+        "counts": "0"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103257",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103257",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103264",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103264",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103271",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103271",
+        "counts": "7"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103275",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103275",
+        "counts": "36"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103276",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103276",
+        "counts": "74"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103277",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103277",
+        "counts": "73"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103278",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103278",
+        "counts": "29"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103279",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103279",
+        "counts": "104"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103280",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103280",
+        "counts": "67"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103281",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103281",
+        "counts": "8"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103282",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103282",
+        "counts": "161"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103283",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103283",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103295",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103295",
+        "counts": "2"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103296",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103296",
+        "counts": "15"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103297",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103297",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103298",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103298",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103305",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103305",
+        "counts": "46"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103306",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103306",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103307",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103307",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103308",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103308",
+        "counts": "6"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103313",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103313",
+        "counts": "63"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103314",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103314",
+        "counts": "244"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103315",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103315",
+        "counts": "92"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103316",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103316",
+        "counts": "191"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103317",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103317",
+        "counts": "83"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103318",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103318",
+        "counts": "190"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103319",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103319",
+        "counts": "216"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103320",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103320",
+        "counts": "57"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103327",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103327",
+        "counts": "1"
+    },
+    {
+        "groups": "COPD",
+        "accession": "GSM7103334",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "GSM7103334",
+        "counts": "19"
+    },
+    {
+        "groups": "COPD",
+        "accession": "JVV9L8ng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "JVV9L8ng_LUNG",
+        "counts": "34"
+    },
+    {
+        "groups": "COPD",
+        "accession": "KJYDM1ng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "KJYDM1ng_LUNG",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7119452_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7119452_LUNG",
+        "counts": "4"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7119453_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7119453_LUNG",
+        "counts": "6"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7135919_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7135919_LUNG",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7135920_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7135920_LUNG",
+        "counts": "2"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7185212_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7185212_LUNG",
+        "counts": "24"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7185213_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7185213_LUNG",
+        "counts": "7"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7239213_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7239213_LUNG",
+        "counts": "7"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7239217_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7239217_LUNG",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7239218_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7239218_LUNG",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7239219_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7239219_LUNG",
+        "counts": "11"
+    },
+    {
+        "groups": "COPD",
+        "accession": "LungTranscriptome7239220_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "LungTranscriptome7239220_LUNG",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "medial_2_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "medial_2_LUNG",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc10380",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc10380",
+        "counts": "50"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc3843",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc3843",
+        "counts": "14"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc4658",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc4658",
+        "counts": "21"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc4659",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc4659",
+        "counts": "1"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc5103",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc5103",
+        "counts": "18"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc5105",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc5105",
+        "counts": "12"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc5212",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc5212",
+        "counts": "15"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc5213",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc5213",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc9832",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc9832",
+        "counts": "11"
+    },
+    {
+        "groups": "COPD",
+        "accession": "muc9833",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "muc9833",
+        "counts": "33"
+    },
+    {
+        "groups": "COPD",
+        "accession": "ODGS1Mng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "ODGS1Mng_LUNG",
+        "counts": "19"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P1_2_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P1_2_LUNG",
+        "counts": "15"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P1_3_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P1_3_LUNG",
+        "counts": "22"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P1_4_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P1_4_LUNG",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_1_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_1_LUNG",
+        "counts": "20"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_2_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_2_LUNG",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_3_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_3_LUNG",
+        "counts": "18"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_4_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_4_LUNG",
+        "counts": "8"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_5_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_5_LUNG",
+        "counts": "33"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_6_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_6_LUNG",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_7_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_7_LUNG",
+        "counts": "31"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P2_8_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P2_8_LUNG",
+        "counts": "29"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P3_2_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P3_2_LUNG",
+        "counts": "8"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P3_3_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P3_3_LUNG",
+        "counts": "35"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P3_4_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P3_4_LUNG",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P3_5_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P3_5_LUNG",
+        "counts": "30"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P3_6_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P3_6_LUNG",
+        "counts": "29"
+    },
+    {
+        "groups": "COPD",
+        "accession": "P3_7_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "P3_7_LUNG",
+        "counts": "60"
+    },
+    {
+        "groups": "COPD",
+        "accession": "p46c_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "p46c_LUNG",
+        "counts": "54"
+    },
+    {
+        "groups": "COPD",
+        "accession": "p47c_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "p47c_LUNG",
+        "counts": "30"
+    },
+    {
+        "groups": "COPD",
+        "accession": "p50c_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "p50c_LUNG",
+        "counts": "87"
+    },
+    {
+        "groups": "COPD",
+        "accession": "p51c_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "p51c_LUNG",
+        "counts": "39"
+    },
+    {
+        "groups": "COPD",
+        "accession": "proximal_3_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "proximal_3_LUNG",
+        "counts": "2"
+    },
+    {
+        "groups": "COPD",
+        "accession": "QZY9VQng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "QZY9VQng_LUNG",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "RU675_N",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "RU675_N",
+        "counts": "13"
+    },
+    {
+        "groups": "COPD",
+        "accession": "RU682_N",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "RU682_N",
+        "counts": "15"
+    },
+    {
+        "groups": "COPD",
+        "accession": "RU684_N",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "RU684_N",
+        "counts": "22"
+    },
+    {
+        "groups": "COPD",
+        "accession": "RU685_N",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "RU685_N",
+        "counts": "26"
+    },
+    {
+        "groups": "COPD",
+        "accession": "S4ECX8ng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "S4ECX8ng_LUNG",
+        "counts": "28"
+    },
+    {
+        "groups": "COPD",
+        "accession": "sample11",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "sample11",
+        "counts": "3"
+    },
+    {
+        "groups": "COPD",
+        "accession": "sample4",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "sample4",
+        "counts": "5"
+    },
+    {
+        "groups": "COPD",
+        "accession": "sample8",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "sample8",
+        "counts": "4"
+    },
+    {
+        "groups": "COPD",
+        "accession": "sample9",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "sample9",
+        "counts": "9"
+    },
+    {
+        "groups": "COPD",
+        "accession": "SHMI57ng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "SHMI57ng_LUNG",
+        "counts": "26"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Travaglini_Krasnow_2020_distal 1a",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Travaglini_Krasnow_2020_distal 1a",
+        "counts": "24"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Travaglini_Krasnow_2020_distal 1b",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Travaglini_Krasnow_2020_distal 1b",
+        "counts": "10"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Travaglini_Krasnow_2020_distal 2",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Travaglini_Krasnow_2020_distal 2",
+        "counts": "14"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Travaglini_Krasnow_2020_distal 3",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Travaglini_Krasnow_2020_distal 3",
+        "counts": "8"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Travaglini_Krasnow_2020_medial 2",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Travaglini_Krasnow_2020_medial 2",
+        "counts": "8"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Travaglini_Krasnow_2020_proximal 3",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Travaglini_Krasnow_2020_proximal 3",
+        "counts": "2"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Vieira_Teichmann_2019_Dropseq_1",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Vieira_Teichmann_2019_Dropseq_1",
+        "counts": "9"
+    },
+    {
+        "groups": "COPD",
+        "accession": "Vieira_Teichmann_2019_Dropseq_2",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "Vieira_Teichmann_2019_Dropseq_2",
+        "counts": "12"
+    },
+    {
+        "groups": "COPD",
+        "accession": "ZM3KACng_LUNG",
+        "counts": "0"
+    },
+    {
+        "groups": "Normal",
+        "accession": "ZM3KACng_LUNG",
+        "counts": "12"
+    }
+]

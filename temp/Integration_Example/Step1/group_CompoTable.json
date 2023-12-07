@@ -1,0 +1,132 @@
+[
+    {
+        "param": "COPD",
+        "celltype": "AT1",
+        "counts": "233"
+    },
+    {
+        "param": "Normal",
+        "celltype": "AT1",
+        "counts": "397"
+    },
+    {
+        "param": "COPD",
+        "celltype": "AT2",
+        "counts": "473"
+    },
+    {
+        "param": "Normal",
+        "celltype": "AT2",
+        "counts": "319"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Basal",
+        "counts": "89"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Basal",
+        "counts": "102"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Ciliated",
+        "counts": "781"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Ciliated",
+        "counts": "631"
+    },
+    {
+        "param": "COPD",
+        "celltype": "DC",
+        "counts": "2700"
+    },
+    {
+        "param": "Normal",
+        "celltype": "DC",
+        "counts": "3034"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Endothelial",
+        "counts": "1509"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Endothelial",
+        "counts": "991"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Epithelial",
+        "counts": "253"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Epithelial",
+        "counts": "137"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Fibroblast",
+        "counts": "754"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Fibroblast",
+        "counts": "652"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Macrophages",
+        "counts": "2125"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Macrophages",
+        "counts": "2952"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Monocytes",
+        "counts": "2753"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Monocytes",
+        "counts": "3671"
+    },
+    {
+        "param": "COPD",
+        "celltype": "NK+T",
+        "counts": "2320"
+    },
+    {
+        "param": "Normal",
+        "celltype": "NK+T",
+        "counts": "1158"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Plasma+B",
+        "counts": "1069"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Plasma+B",
+        "counts": "620"
+    },
+    {
+        "param": "COPD",
+        "celltype": "Stromal",
+        "counts": "229"
+    },
+    {
+        "param": "Normal",
+        "celltype": "Stromal",
+        "counts": "229"
+    }
+]

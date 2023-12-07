@@ -1,0 +1,488 @@
+[
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.33431291078635e-38",
+        "qval": "2.09353695702379e-35",
+        "gene_short_name": "A2M",
+        "num_cells_expressed": "695",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.5178274253785e-12",
+        "qval": "9.19911871736478e-10",
+        "gene_short_name": "ACTB",
+        "num_cells_expressed": "894",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "8.44442940813182e-08",
+        "qval": "1.10410914511324e-05",
+        "gene_short_name": "ARPC1B",
+        "num_cells_expressed": "243",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "8.37765669061054e-11",
+        "qval": "1.97168150213519e-08",
+        "gene_short_name": "B2M",
+        "num_cells_expressed": "895",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.30627198809162e-07",
+        "qval": "1.6617897967425e-05",
+        "gene_short_name": "CES1",
+        "num_cells_expressed": "408",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "8.76700576135601e-09",
+        "qval": "1.42297572823113e-06",
+        "gene_short_name": "CFL1",
+        "num_cells_expressed": "625",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "5.86684719533726e-07",
+        "qval": "5.63576525478622e-05",
+        "gene_short_name": "CKAP4",
+        "num_cells_expressed": "150",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "2.6948285502884e-32",
+        "qval": "3.17113949655188e-29",
+        "gene_short_name": "CTGF",
+        "num_cells_expressed": "478",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "4.02680182431304e-32",
+        "qval": "3.7908312374083e-29",
+        "gene_short_name": "CYR61",
+        "num_cells_expressed": "581",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "5.58890803735482e-08",
+        "qval": "7.97181519146337e-06",
+        "gene_short_name": "DCN",
+        "num_cells_expressed": "913",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.27095594957113e-28",
+        "qval": "1.92454870682892e-25",
+        "gene_short_name": "DUSP1",
+        "num_cells_expressed": "725",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "4.90634745718083e-10",
+        "qval": "1.04973534004319e-07",
+        "gene_short_name": "DUSP6",
+        "num_cells_expressed": "123",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "8.37712081724734e-08",
+        "qval": "1.10410914511324e-05",
+        "gene_short_name": "ENO1",
+        "num_cells_expressed": "406",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.93569304083043e-14",
+        "qval": "6.07420476212588e-12",
+        "gene_short_name": "FBLN1",
+        "num_cells_expressed": "734",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.53739204563716e-15",
+        "qval": "5.16893168486723e-13",
+        "gene_short_name": "FHL1",
+        "num_cells_expressed": "568",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "2.17245515159728e-14",
+        "qval": "6.39109149910524e-12",
+        "gene_short_name": "FIBIN",
+        "num_cells_expressed": "316",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "8.02498439249619e-10",
+        "qval": "1.64233050154259e-07",
+        "gene_short_name": "FMO2",
+        "num_cells_expressed": "454",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.80335563757122e-22",
+        "qval": "1.49186624883731e-19",
+        "gene_short_name": "FOS",
+        "num_cells_expressed": "716",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.89557432544818e-09",
+        "qval": "6.79128457403133e-07",
+        "gene_short_name": "FTL",
+        "num_cells_expressed": "890",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.85055656794721e-07",
+        "qval": "2.07394518222084e-05",
+        "gene_short_name": "GNG5",
+        "num_cells_expressed": "368",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.60967086759963e-09",
+        "qval": "3.03068830951659e-07",
+        "gene_short_name": "GPC3",
+        "num_cells_expressed": "453",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.32806860413411e-10",
+        "qval": "2.97677091412346e-08",
+        "gene_short_name": "GPX3",
+        "num_cells_expressed": "642",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.75544755371475e-07",
+        "qval": "2.01533942325252e-05",
+        "gene_short_name": "HSD17B10",
+        "num_cells_expressed": "142",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "8.23967058925676e-07",
+        "qval": "7.60473126737874e-05",
+        "gene_short_name": "INMT",
+        "num_cells_expressed": "350",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.57470337551619e-08",
+        "qval": "2.4707095961849e-06",
+        "gene_short_name": "JUNB",
+        "num_cells_expressed": "691",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "4.04796313221377e-07",
+        "qval": "3.96953384652713e-05",
+        "gene_short_name": "KDELR2",
+        "num_cells_expressed": "374",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.8613401107175e-28",
+        "qval": "2.01948087790525e-25",
+        "gene_short_name": "LUM",
+        "num_cells_expressed": "774",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "7.98535083297851e-07",
+        "qval": "7.51740927416597e-05",
+        "gene_short_name": "MANF",
+        "num_cells_expressed": "176",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.03490309486364e-39",
+        "qval": "2.43564443376158e-36",
+        "gene_short_name": "MFAP4",
+        "num_cells_expressed": "698",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "7.23815031828595e-09",
+        "qval": "1.21678476957757e-06",
+        "gene_short_name": "NDUFS5",
+        "num_cells_expressed": "485",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "9.13667389890267e-07",
+        "qval": "8.27044693117978e-05",
+        "gene_short_name": "NME1",
+        "num_cells_expressed": "152",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.96097059969552e-08",
+        "qval": "2.97751245573123e-06",
+        "gene_short_name": "NNMT",
+        "num_cells_expressed": "536",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.14547955799761e-09",
+        "qval": "5.69452779980568e-07",
+        "gene_short_name": "NPNT",
+        "num_cells_expressed": "161",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.3298273363e-08",
+        "qval": "4.89796789748879e-06",
+        "gene_short_name": "P4HB",
+        "num_cells_expressed": "428",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "2.21233689653555e-07",
+        "qval": "2.36669767545292e-05",
+        "gene_short_name": "PFN1",
+        "num_cells_expressed": "547",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "6.58529284528146e-31",
+        "qval": "5.16616223712331e-28",
+        "gene_short_name": "PTGDS",
+        "num_cells_expressed": "539",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.74396645381518e-44",
+        "qval": "1.7622850098108e-40",
+        "gene_short_name": "RARRES2",
+        "num_cells_expressed": "692",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.96495000013854e-30",
+        "qval": "1.32128852152173e-27",
+        "gene_short_name": "RGCC",
+        "num_cells_expressed": "544",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "4.02261071728747e-07",
+        "qval": "3.96953384652713e-05",
+        "gene_short_name": "RGS3",
+        "num_cells_expressed": "113",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.57029304666144e-07",
+        "qval": "1.89522291554754e-05",
+        "gene_short_name": "RPL4",
+        "num_cells_expressed": "666",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.39531240307519e-07",
+        "qval": "1.72835144244077e-05",
+        "gene_short_name": "RPS11",
+        "num_cells_expressed": "736",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.61827218014396e-07",
+        "qval": "1.90430178798441e-05",
+        "gene_short_name": "RPS16",
+        "num_cells_expressed": "790",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.08003254274767e-09",
+        "qval": "2.11821382446388e-07",
+        "gene_short_name": "RPS24",
+        "num_cells_expressed": "828",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "2.90724106855358e-13",
+        "qval": "8.04963747628336e-11",
+        "gene_short_name": "SERPING1",
+        "num_cells_expressed": "751",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "9.93422693363502e-07",
+        "qval": "8.82271814653209e-05",
+        "gene_short_name": "SOD3",
+        "num_cells_expressed": "519",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "8.37418599819196e-08",
+        "qval": "1.10410914511324e-05",
+        "gene_short_name": "SPARCL1",
+        "num_cells_expressed": "772",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.03796320115071e-06",
+        "qval": "9.04757923669706e-05",
+        "gene_short_name": "SRM",
+        "num_cells_expressed": "201",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "9.20734970900697e-12",
+        "qval": "2.2809997410682e-09",
+        "gene_short_name": "TCF21",
+        "num_cells_expressed": "382",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.43578823265743e-16",
+        "qval": "5.19865785470655e-14",
+        "gene_short_name": "TIMP3",
+        "num_cells_expressed": "746",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "6.35445907110795e-25",
+        "qval": "2.99104388477051e-22",
+        "gene_short_name": "TMSB4X",
+        "num_cells_expressed": "866",
+        "use_for_ordering": "TRUE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "3.38227282460301e-07",
+        "qval": "3.46094743161008e-05",
+        "gene_short_name": "TPM2",
+        "num_cells_expressed": "491",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "2.00335732915202e-07",
+        "qval": "2.19297742984153e-05",
+        "gene_short_name": "YBX1",
+        "num_cells_expressed": "645",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "2.41179071554555e-07",
+        "qval": "2.52273308846064e-05",
+        "gene_short_name": "ZDHHC14",
+        "num_cells_expressed": "53",
+        "use_for_ordering": "FALSE"
+    },
+    {
+        "status": "OK",
+        "family": "uninormal",
+        "pval": "1.02216622886729e-22",
+        "qval": "4.37394221752575e-20",
+        "gene_short_name": "ZFP36",
+        "num_cells_expressed": "659",
+        "use_for_ordering": "FALSE"
+    }
+]

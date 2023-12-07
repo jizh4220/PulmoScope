@@ -1,0 +1,32 @@
+[
+    {
+        "param": "airway proximal",
+        "groups": "COPD",
+        "counts": "0"
+    },
+    {
+        "param": "peripheral lung",
+        "groups": "COPD",
+        "counts": "1526"
+    },
+    {
+        "param": "whole lung",
+        "groups": "COPD",
+        "counts": "8325"
+    },
+    {
+        "param": "airway proximal",
+        "groups": "Normal",
+        "counts": "224"
+    },
+    {
+        "param": "peripheral lung",
+        "groups": "Normal",
+        "counts": "597"
+    },
+    {
+        "param": "whole lung",
+        "groups": "Normal",
+        "counts": "9310"
+    }
+]

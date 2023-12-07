@@ -1,0 +1,5 @@
+"","param","groups","counts"
+"1","COPD","COPD",10000
+"2","Normal","COPD",0
+"3","COPD","Normal",0
+"4","Normal","Normal",9996

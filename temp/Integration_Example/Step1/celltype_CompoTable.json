@@ -1,0 +1,142 @@
+[
+    {
+        "param": "Airway Epithelial",
+        "groups": "COPD",
+        "counts": "140"
+    },
+    {
+        "param": "AT1",
+        "groups": "COPD",
+        "counts": "403"
+    },
+    {
+        "param": "AT2",
+        "groups": "COPD",
+        "counts": "910"
+    },
+    {
+        "param": "Basal",
+        "groups": "COPD",
+        "counts": "240"
+    },
+    {
+        "param": "Ciliated",
+        "groups": "COPD",
+        "counts": "612"
+    },
+    {
+        "param": "DC",
+        "groups": "COPD",
+        "counts": "568"
+    },
+    {
+        "param": "Endothelial",
+        "groups": "COPD",
+        "counts": "985"
+    },
+    {
+        "param": "Fibroblast",
+        "groups": "COPD",
+        "counts": "483"
+    },
+    {
+        "param": "Macrophages",
+        "groups": "COPD",
+        "counts": "1333"
+    },
+    {
+        "param": "Monocytes",
+        "groups": "COPD",
+        "counts": "709"
+    },
+    {
+        "param": "NK+T",
+        "groups": "COPD",
+        "counts": "1310"
+    },
+    {
+        "param": "Plasma+B",
+        "groups": "COPD",
+        "counts": "452"
+    },
+    {
+        "param": "Secretory",
+        "groups": "COPD",
+        "counts": "1272"
+    },
+    {
+        "param": "Stromal",
+        "groups": "COPD",
+        "counts": "434"
+    },
+    {
+        "param": "Airway Epithelial",
+        "groups": "Normal",
+        "counts": "140"
+    },
+    {
+        "param": "AT1",
+        "groups": "Normal",
+        "counts": "407"
+    },
+    {
+        "param": "AT2",
+        "groups": "Normal",
+        "counts": "932"
+    },
+    {
+        "param": "Basal",
+        "groups": "Normal",
+        "counts": "247"
+    },
+    {
+        "param": "Ciliated",
+        "groups": "Normal",
+        "counts": "649"
+    },
+    {
+        "param": "DC",
+        "groups": "Normal",
+        "counts": "607"
+    },
+    {
+        "param": "Endothelial",
+        "groups": "Normal",
+        "counts": "1000"
+    },
+    {
+        "param": "Fibroblast",
+        "groups": "Normal",
+        "counts": "488"
+    },
+    {
+        "param": "Macrophages",
+        "groups": "Normal",
+        "counts": "1350"
+    },
+    {
+        "param": "Monocytes",
+        "groups": "Normal",
+        "counts": "726"
+    },
+    {
+        "param": "NK+T",
+        "groups": "Normal",
+        "counts": "1321"
+    },
+    {
+        "param": "Plasma+B",
+        "groups": "Normal",
+        "counts": "574"
+    },
+    {
+        "param": "Secretory",
+        "groups": "Normal",
+        "counts": "1251"
+    },
+    {
+        "param": "Stromal",
+        "groups": "Normal",
+        "counts": "439"
+    }
+]

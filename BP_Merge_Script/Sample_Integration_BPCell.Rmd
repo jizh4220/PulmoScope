@@ -1,0 +1,24 @@
+# Here's a demo of the power of script
+
+# Please make sure your Seurat version is V5 rathern than V3 or rds2h5ad will not run effectively !!!
+
+## Step0: Prepare a txt file for accessions of interest
+```{bash}
+find ../global/disease -name "SCLC*.rds" -o -name "LUSC*.rds" -o -name "LUAD*.rds" -o -name >> example_datalist.txt;
+```
+
+## Step2: Convert rds to h5ad
+```{bash}
+Rscript rds2h5ad.R example_datalist.txt
+```
+
+## Step3: Merge all previously prepared h5ad
+```{python}
+python3 scanpyMergeCounts.py example_datalist.txt example_merged_adata.h5ad F  
+```
+
+## Step4: Perform BPCell preparation for PCA, Harmony, and UMAP
+```{bash}
+Rscript BPCell_Preparation.R example_merged_adata.h5ad
+```
+

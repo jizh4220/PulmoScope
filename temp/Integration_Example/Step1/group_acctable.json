@@ -1,0 +1,622 @@
+[
+    {
+        "group": "COPD",
+        "accession": "GSM4058900",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058900",
+        "counts": "593"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058901",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058901",
+        "counts": "549"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058902",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058902",
+        "counts": "651"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058903",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058903",
+        "counts": "588"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058904",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058904",
+        "counts": "537"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058905",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058905",
+        "counts": "136"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058906",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058906",
+        "counts": "634"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058907",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058907",
+        "counts": "371"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058908",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058908",
+        "counts": "408"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058909",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058909",
+        "counts": "523"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058910",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058910",
+        "counts": "630"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058911",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058911",
+        "counts": "586"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058912",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058912",
+        "counts": "483"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058913",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058913",
+        "counts": "419"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058914",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058914",
+        "counts": "417"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058915",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058915",
+        "counts": "609"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058916",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058916",
+        "counts": "458"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058917",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058917",
+        "counts": "385"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058918",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058918",
+        "counts": "360"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058919",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058919",
+        "counts": "606"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058920",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058920",
+        "counts": "248"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058921",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058921",
+        "counts": "540"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058922",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058922",
+        "counts": "728"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058923",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058923",
+        "counts": "658"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058924",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058924",
+        "counts": "443"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058925",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058925",
+        "counts": "223"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058926",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058926",
+        "counts": "48"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058927",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058927",
+        "counts": "318"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058928",
+        "counts": "384"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058928",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058929",
+        "counts": "602"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058929",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058930",
+        "counts": "504"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058930",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058931",
+        "counts": "348"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058931",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058932",
+        "counts": "498"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058932",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058933",
+        "counts": "460"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058933",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058934",
+        "counts": "474"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058934",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058935",
+        "counts": "589"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058935",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058936",
+        "counts": "500"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058936",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058937",
+        "counts": "524"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058937",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058938",
+        "counts": "450"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058938",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058939",
+        "counts": "469"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058939",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058940",
+        "counts": "732"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058940",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058941",
+        "counts": "537"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058941",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058942",
+        "counts": "278"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058942",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058943",
+        "counts": "471"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058943",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058944",
+        "counts": "424"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058944",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4058945",
+        "counts": "616"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4058945",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM4816089",
+        "counts": "376"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM4816089",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5100998",
+        "counts": "515"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5100998",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5100999",
+        "counts": "431"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5100999",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5101000",
+        "counts": "446"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5101000",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282537",
+        "counts": "651"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282537",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282538",
+        "counts": "556"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282538",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282539",
+        "counts": "596"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282539",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282540",
+        "counts": "524"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282540",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282541",
+        "counts": "570"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282541",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282542",
+        "counts": "451"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282542",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282543",
+        "counts": "234"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282543",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282544",
+        "counts": "526"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282544",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282545",
+        "counts": "552"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282545",
+        "counts": "0"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282546",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282546",
+        "counts": "482"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282547",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282547",
+        "counts": "654"
+    },
+    {
+        "group": "COPD",
+        "accession": "GSM5282548",
+        "counts": "0"
+    },
+    {
+        "group": "Normal",
+        "accession": "GSM5282548",
+        "counts": "608"
+    }
+]
