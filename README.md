@@ -19,6 +19,10 @@ Template script:
 bash Explorer_Runner.sh Enrichment_Analysis.R KEGG front_end_parameters user_id 
 ```
 
+<p align="center">
+  <img width="500"  src="PulmoScope_Explore_Workflow.jpg">
+</p>
+
 1. `Gene Explorer`:
    - `global_feature.R` compares cross-disease gene expression for every cell type and visualize in dotplot.
    - `DEG_Display.R` compares every precalculated GroupDEG of every disease in FeaturePlot, ViolinPlot, and FractionPlot.
